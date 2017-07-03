@@ -1,0 +1,118 @@
+body{background-color: #ececec;}
+div.container,header{background-color: #fff;}
+.row1{padding:10px 0px;border-bottom: 1px solid #c6c6c6;}
+.row1 span{width: 115px;height: 5px;border-radius: 3px;}
+.row1 span.bg1{background-color: #0c80c7;margin-right: 10px;}
+.row1 span.bg2{background-color: #cccccc;}
+/**/
+.global1{padding-top: 20px;padding-bottom: 40px;background-image: url(../../../images/chuyende/mobile/tonghop/tonghop-2.png);background-position: bottom center;background-repeat: no-repeat;}
+.global1 .line1{font-weight: bold;color: #0f81c8;}
+.global1 .line2{margin-top: 15px;color: #0f81c8;}
+/**/
+.row2{padding:0px 15px;padding-bottom: 35px;}
+.row2 .title1{background-color: #0074bc;color: #fff;font-weight: bold;width: 105px;height: 40px;line-height: 40px;border-top-right-radius: 10px;border-bottom-right-radius: 10px;}
+.row2 table{margin-top: 15px;width: 100%;border-spacing: 5px;}
+.row2 table tr td{border:1px solid #c6c6c6;padding:5px 5px;text-align: center;height: 54px;}
+.row2 .mar1{margin-top: 30px;}
+.row2 .global2{margin-top: 35px;}
+/**/
+.global2{width: 100%;background-color: #ff8800;border-radius: 20px;height: 50px;padding:5px;color: #fff;}
+.global2 span{color: #1d1d1d;}
+/**/
+.global3{height: 15px;background-color: #ececec;border-top:1px solid #686868;}
+/**/
+.row3{padding:0px 15px;padding-top: 30px;padding-bottom: 35px;}
+.row3 .dis-table{margin-bottom: 20px;border-spacing: 0px;}
+.row3 .dis-table .title1{color: #0f81c8;}
+.row3 .dis-table .des1{margin-top: 10px;}
+.row3 .dis-table .des1 a{color: #ff8800;}
+.row3 .dis-table .cell1{background-color: #e2f4ff;}
+.row3 .dis-table .cell2{padding:10px;background-color: #e2f4ff;}
+.row3 .table1 .cell1{border-top-left-radius: 50%;border-bottom-left-radius: 50%;}
+.row3 .table2 .cell1{border-top-right-radius: 50%;border-bottom-right-radius: 50%;}
+.row3 .footer1{margin-top: -10px;}
+.row3 .footer1{border-spacing: 10px;}
+.row3 .footer1 td.bg1{background-color: #0f81c8;color: #fff;border-radius: 10px;padding:5px;width: 50%}
+.row3 .footer1 td.bg2{background-color: #ff8800;color: #fff;border-radius: 10px;padding:5px;width: 50%}
+.row3 .footer1 td.bg2 span{font-size: 20px;}
+/**/
+.row4{margin-top: 10px;padding:0px 15px;padding-bottom: 35px;}
+.row4 .table1 .des1{padding:0px 10px;}
+.row4 .table1 .des1 span{color: #0f81c8;}
+.row4 .border{border:1px dashed #d2d2d2;padding:6px;border-radius: 5px;margin-top: 20px;}
+.row4 .border2{margin-top: 10px;}
+.row4 .border table tr td:nth-child(2){padding-left: 15px;}
+.row4 .border table tr i{display: block;width: 37px;height: 60px;background-image: url(../../../images/chuyende/mobile/tonghop/tonghop-10.png);}
+.row4 .border2 table tr i{background-position: 0px -80px;width: 36px;}
+.row4 .footer1{border-spacing: 10px;margin-top: 20px;}
+.row4 .footer1 td.bg1{background-color: #0f81c8;color: #fff;border-radius: 10px;padding:5px;width: 50%}
+.row4 .footer1 td.bg2{background-color: #ff8800;color: #fff;border-radius: 10px;padding:5px;width: 50%}
+.row4 .footer1 td.bg2 span{font-size: 20px;}
+.row4 .img1{margin-top: 10px;}
+.row4 .global2{margin-top: 20px;}
+/**/
+.row5{padding:0px 15px;padding-top: 10px;padding-bottom: 25px;}
+.row5 .des1{color: #424242;}
+.row5 .img1{margin-top: 35px;}
+.row5 .img2{margin-top: 30px;}
+/**/
+.row6{margin-top: 10px;padding:0px 10px;padding-bottom: 110px;}
+.row6 table{border-spacing: 8px;color: #fff;}
+.row6 table td{padding:5px;height: 50px;text-align: center;border-radius: 4px;}
+.row6 table td a{display: block;text-align: center;}
+.row6 .table2{margin-top: -10px;}
+.row6 .bg1{background-color: #0f81c8;width: 50%;}
+.row6 .bg2{background-color: #727bd8;width: 50%;}
+.row6 .bg3{background-color: #81bc03;width: 33.33%;}
+.row6 .bg4{background-color: #ff7a3f;width: 33.33%;}
+.row6 .bg5{background-color: #f2ae0c;width: 33.33%;}
+/**/
+.row7{margin-top: 10px;padding-bottom: 35px;}
+.row7 .footer1{border-spacing: 10px;margin-top: 20px;}
+.row7 .footer1 td.bg1{background-color: #0f81c8;color: #fff;border-radius: 10px;padding:5px;width: 50%;height: 50px;}
+.row7 .footer1 td.bg2{background-color: #ff8800;color: #fff;border-radius: 10px;padding:5px;width: 50%;height: 50px;}
+/**/
+.row8{padding:0px 15px;padding-top: 10px;padding-bottom: 35px;}
+.row8 .table1{width: 205px;border-radius: 5px;background-color: #ff8800;color: #fff;border-spacing: 5px;height: 44px;}
+.row8 .table2{border-spacing: 10px;border-bottom: 1px dashed #c6c6c6;}
+.row8 .row:after,.row8 .row:before{border-spacing: 0px;}
+.row8 .row .name{font-weight: bold;}
+.row8 .row .star i{color: #ff8800;}
+.row8 .row .likes{color: #0f81c8;font-weight: bold;}
+.row8 .table2 .des1{color: #666666;margin-top: 5px;}
+.row8 .global2{margin-top: 20px;}
+.row8 .global2 strong{font-size: 20px;}
+/**/
+div.row9{padding:0px 15px;padding-top: 10px;padding-bottom: 25px;}
+div.row9 .bg1{background-color: #f7f7f7;padding:10px;border:1px solid #c6c6c6;}
+div.row9 div.form-group{margin-bottom: 20px;}
+div.row9 div.form-group .text-right{color: red;}
+div.row9 div.form-group input{height: 35px;line-height: 35px; width: 100%;outline: none;padding:0px 10px;}
+div.row9 div.form-group textarea{width: 100%;outline: none;padding:10px 10px;}
+div.row9 .btn{height: 40px;background-color: #ff8800;color: #fff;border-radius: 5px;outline: none;border:none;margin-bottom: 5px;width: 180px;}
+/**/
+div.row10 table{border-spacing: 0px;}
+div.row10 table td{padding:10px;color: #fff;}
+div.row10 table td.bg1{background-color: #0f81c8;}
+div.row10 table td.bg2{background-color: #ff8800;}
+div.row10 table td.bg3{background-color: #0f81c8;}
+/*fixed*/
+footer >div:first-child{background-color: #e1e1e1;padding:15px;}
+footer p{color: #030303;font-size: 14px;margin-bottom: 10px;}
+footer p a{font-size: 12px;font-weight: bold;}
+
+menu{background-color: #0f81c8;}
+header .table-cell span{color: #0660ba;}
+header .table-cell div.h3, header .table-cell h1{color: #0660ba;}
+header .table-cell div.web-address{color: #e92426;font-weight: normal;}
+
+footer .footer-toolbar .table1 {color: #fff;}
+footer .footer-toolbar .table1 .cell1{background-color: #666666;}
+footer .footer-toolbar .table1 .cell2{background-color: #26c540;}
+footer .footer-toolbar .table1 .cell3{background-color: #ff6004;}
+footer .footer-toolbar .table2{padding:5px 10px;}
+@media(min-width: 640px){
+	.img-responsive{max-width: 100%!important;width: auto;}
+}
+#myloadding {position: fixed; display: none; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.6); z-index: 100003; cursor: pointer; }
+#myloadding #mytext{position: absolute; top: 50%; left: 50%; font-size: 50px; color: white; transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); font-size: 15px; }

@@ -1,0 +1,214 @@
+/*
+  Based on:
+  1. http://stephen.io/mediaqueries
+  2. https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+*/
+/* 
+  iPhone 2G, 3G, 4, 4S Media Queries
+  It's noteworthy that these media queries are also the same for iPod Touch generations 1-4.
+*/
+
+/* iPhone 2G-4S in portrait & landscape */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  /*header*/
+  header .flex1col1 div.h3, header .flex1col1 h1{font-size: 14px;}
+  header .flex1col1 div.web-address{font-size: 12px;}
+  header .flex1col3 span{font-size: 11px;padding-left: 10px;}
+  menu .flex1col1{font-size: 12px;}
+
+  div.chuyende div.row1{margin:10px 0px;}
+  div.chuyende div.global1 .bg{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.global1 .line3{width: 100%;padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row3 div.flex1col1{width: 30%;}
+  div.chuyende div.row5 div.flex1col1{width: 100%;margin-top: 10px;}
+
+  div.chuyende div.row6 div.flex1{flex-wrap: wrap;background-color: #21c4e7;background-image: none;height: 100px;}
+  div.chuyende div.row6 div.flex1col1{width: 100%;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2{width: 100%;padding-left: 0px;height: auto;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2>div>div:nth-child(1){margin-left: 15px;}
+  div.chuyende div.row7 div.flex1{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.row7 div.flex1 >div{width:100%;margin-top: 10px;}
+  div.chuyende div.row7 div.flex1col2{margin-left: 0px;}
+  div.chuyende div.row7 div.flex1col1{padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row7 div.flex1col2{min-height: 200px;}
+  div.chuyende div.row5 div.flex1col1{height: 300px;}
+  div.chuyende div.row4 div.global3{padding:10px 10px;}
+}
+
+/* iPhone 2G-4S in landscape */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : landscape) {
+  
+}
+
+/* iPhone 2G-4S in portrait */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : portrait) {
+  
+}
+
+/* iPhone 5 & 5S in portrait & landscape */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+  /*header*/
+  header .flex1col1 div.h3, header .flex1col1 h1{font-size: 14px;}
+  header .flex1col1 div.web-address{font-size: 12px;}
+  header .flex1col3 span{font-size: 11px;padding-left: 10px;}
+  menu .flex1col1{font-size: 12px;}
+
+  div.chuyende div.row1{margin:10px 0px;}
+  div.chuyende div.global1 .bg{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.global1 .line3{width: 100%;padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row3 div.flex1col1{width: 30%;}
+  div.chuyende div.row5 div.flex1col1{width: 100%;margin-top: 10px;}
+
+  div.chuyende div.row6 div.flex1{flex-wrap: wrap;background-color: #21c4e7;background-image: none;height: 100px;}
+  div.chuyende div.row6 div.flex1col1{width: 100%;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2{width: 100%;padding-left: 0px;height: auto;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2>div>div:nth-child(1){margin-left: 15px;}
+  div.chuyende div.row7 div.flex1{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.row7 div.flex1 >div{width:100%;margin-top: 10px;}
+  div.chuyende div.row7 div.flex1col2{margin-left: 0px;}
+  div.chuyende div.row7 div.flex1col1{padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row7 div.flex1col2{min-height: 200px;}
+  div.chuyende div.row5 div.flex1col1{height: 300px;}
+  div.chuyende div.row4 div.global3{padding:10px 10px;}
+}
+
+/* iPhone 5 & 5S in landscape */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : landscape) {
+  
+}
+
+/* iPhone 5 & 5S in portrait */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : portrait) {
+  
+}
+
+
+/* iPhone 6 in portrait & landscape */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) {
+  
+}
+
+/* iPhone 6 in landscape */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) {
+  
+}
+
+/* iPhone 6 in portrait */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) {
+  /*header*/
+  header .flex1col1 div.h3, header .flex1col1 h1{font-size: 14px;}
+  header .flex1col1 div.web-address{font-size: 12px;}
+  header .flex1col3 span{font-size: 11px;padding-left: 10px;}
+  menu .flex1col1{font-size: 12px;}
+
+  div.chuyende div.row1{margin:10px 0px;}
+  div.chuyende div.global1 .bg{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.global1 .line3{width: 100%;padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row3 div.flex1col1{width: 30%;}
+  div.chuyende div.row5 div.flex1col1{width: 100%;margin-top: 10px;}
+
+  div.chuyende div.row6 div.flex1{flex-wrap: wrap;background-color: #21c4e7;background-image: none;height: 100px;}
+  div.chuyende div.row6 div.flex1col1{width: 100%;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2{width: 100%;padding-left: 0px;height: auto;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2>div>div:nth-child(1){margin-left: 15px;}
+  div.chuyende div.row7 div.flex1{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.row7 div.flex1 >div{width:100%;margin-top: 10px;}
+  div.chuyende div.row7 div.flex1col2{margin-left: 0px;}
+  div.chuyende div.row7 div.flex1col1{padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row7 div.flex1col2{min-height: 200px;}
+  div.chuyende div.row5 div.flex1col1{height: 300px;}
+  div.chuyende div.row4 div.global3{padding:10px 10px;}
+}
+
+/* iPhone 6 Plus in portrait & landscape */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+  
+}
+
+/* iPhone 6 Plus in landscape */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : landscape) {
+  
+}
+
+/* iPhone 6 Plus in portrait */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : portrait) {
+  /*header*/
+  header .flex1col1 div.h3, header .flex1col1 h1{font-size: 14px;}
+  header .flex1col1 div.web-address{font-size: 12px;}
+  header .flex1col3 span{font-size: 11px;padding-left: 10px;}
+  menu .flex1col1{font-size: 12px;}
+
+  div.chuyende div.row1{margin:10px 0px;}
+  div.chuyende div.global1 .bg{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.global1 .line3{width: 100%;padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row3 div.flex1col1{width: 30%;}
+  div.chuyende div.row5 div.flex1col1{width: 100%;margin-top: 10px;}
+
+  div.chuyende div.row6 div.flex1{flex-wrap: wrap;background-color: #21c4e7;background-image: none;height: 100px;}
+  div.chuyende div.row6 div.flex1col1{width: 100%;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2{width: 100%;padding-left: 0px;height: auto;padding-top:0px;}
+  div.chuyende div.row6 div.flex1col2>div>div:nth-child(1){margin-left: 15px;}
+  div.chuyende div.row7 div.flex1{margin-left: 10px;margin-right: 10px;}
+  div.chuyende div.row7 div.flex1 >div{width:100%;margin-top: 10px;}
+  div.chuyende div.row7 div.flex1col2{margin-left: 0px;}
+  div.chuyende div.row7 div.flex1col1{padding-left: 10px;padding-right: 10px;}
+  div.chuyende div.row7 div.flex1col2{min-height: 200px;}
+  div.chuyende div.row5 div.flex1col1{height: 300px;}
+  div.chuyende div.row4 div.global3{padding:10px 10px;}
+
+}
+
+/* iPad in portrait & landscape */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+  
+}
+
+/* iPad in landscape */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+  
+}
+
+/* iPad in portrait */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+  
+}

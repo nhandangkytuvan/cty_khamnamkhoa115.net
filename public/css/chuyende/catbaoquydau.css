@@ -1,0 +1,451 @@
+div.row2{
+	background-color: #ececec;
+}
+div.row2 .flex1{
+	height: 152px;
+}
+div.row2 .flex1col1{
+	padding-left: 20px;
+}
+div.row2 .flex1col2{
+	width:793px;
+}
+div.row3{
+	/*padding-top: 15px;*/
+}
+div.row3 .flex1col1{
+	width:494px;
+}
+div.row3 .flex1col1 >div:nth-child(1){
+	margin-top: 10px;
+	color: #fff;
+	font-size: 18px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-3.png');
+	height:86px;
+}
+div.row3 .soc{
+	border-left:1px solid #6a6a6a;
+}
+div.row3 .flex2col1 div.bg{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-4.png');
+	background-repeat: no-repeat;
+	width: 147px;
+	height: 131px;
+	background-position: 0px 0px;
+}
+div.row3 .flex2col1 div.bg2{
+	background-position: -160px 0px;
+}
+div.row3 .flex2col1 div.bg3{
+	background-position: -317px 0px;
+}
+div.row3 .flex2col1 div.bg4{
+	background-position: 0px -189px;
+}
+div.row3 .flex2col1 div.bg5{
+	background-position: -160px -189px;
+}
+div.row3 .flex2col1 div.bg6{
+	background-position: -317px -189px;
+}
+
+div.row3 .flex2{
+	margin-top: 10px;
+	height:368px;
+}
+div.row3 .flex2col1>div{
+	width: 147px;
+}
+div.row3 .flex2col1>div>div:last-child{
+	background-color: #008080;
+	color: #fff;
+	font-size: 12px;
+	height: 40px;
+	margin-top: 5px;
+}
+div.row3 .flex3{
+	margin-top: 9px;height: 299px;
+}
+div.row3 .flex3col1{
+	width: 246px;
+	height: 138px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-5.png');
+}
+div.row3 .flex3col1 >div:first-child{
+	height:40px;color: #018081;
+	margin-left: 50px;
+	font-size: 12px;
+}
+div.row3 .flex3col1 >div:last-child{
+	font-size: 12px;
+	color: #444444;
+	margin-left: 10px;margin-top: 20px;
+}
+/**/
+div.row3 .flex4col1{
+	width: 226px;
+	background-repeat: no-repeat;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-6.png');
+	background-position: bottom;
+	height: 70px;
+}
+div.row3 .flex4col1 >div:first-child{
+	font-size: 12px;
+	color: #ff6600;
+	width: 162px;
+	margin:0px auto;
+}
+div.row3 .flex4col1 >div:last-child a{
+	display: inline-block;
+	background-color: #ff6600;
+	height: 28px;
+	width: 158px;
+	line-height: 28px;
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+	margin-top: 6px;
+}
+/**/
+div.row4{
+	padding-top: 25px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-7.png');
+	background-repeat: no-repeat;
+	height: 609px;
+	margin-top: 30px;
+}
+div.row4 div.line1{
+	font-size: 24px;
+	font-weight: bold;
+	color: #fff;
+}
+div.row4 div.line2{
+	color: #fff;
+	font-size: 18px;
+	margin-top: 13px;
+}
+div.row4 div.line3{
+	margin-top: 5px;
+}
+div.row4 div.line4{
+	width: 935px;
+	margin:0px auto;
+}
+div.row4 div.line4>div.col2{
+	width: 577px;
+	color: #fff;
+	line-height: 20px;
+}
+div.row4 div.line4>div.col2>div:first-child{
+	padding-bottom: 60px;
+}
+div.row4 div.line4>div.col2>div:last-child{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+div.row4 div.line4>div.col2>div:last-child span{
+	color: #ffea00;
+}
+div.row4 div.line5{
+	margin-top: 25px;
+}
+/**/
+div.row5{
+	padding-top: 45px;
+}
+div.row5 .line1{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-10.gif');
+	background-repeat: no-repeat;
+	background-position: center;
+	height:98px;
+	color: #fff;
+	font-size: 18px;
+	padding-left: 30px;
+}
+div.row5 .line2{
+	margin-top: 40px;
+}
+div.row5 .line2 .col1{
+	width: 245px;
+	height:355px;
+	background-color: #bfdde8;
+}
+div.row5 .line2 .col1 .bg{
+	height: 86px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-11.png');
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+div.row5 .line2 .col1 .text-center{
+	color: #fff;
+	margin-top: 40px;
+}
+div.row5 .line2 .col1 .text-justify{
+	color: #3c3c3c;
+	margin-top: 20px;
+	padding:0px 10px;
+}
+div.row5 .line2 .col1:nth-child(2){
+	background-color: #cebfd4;
+}
+div.row5 .line2 .col1:nth-child(3){
+	background-color: #d37ba3;
+}
+div.row5 .line2 .col1:nth-child(4){
+	background-color: #a1cac2;
+}
+div.row5 .line2 .col1 .bg1{
+	background-position: -264px 0px;
+}
+div.row5 .line2 .col1 .bg2{
+	background-position: -510px 0px;
+}
+div.row5 .line2 .col1 .bg3{
+	background-position: -763px 0px;
+}
+div.row5 .line3 a{
+	display: inline-block;
+	height:53px;
+	border-radius: 20px;
+	background-color: #ff6600;
+	line-height: 53px;
+	font-weight: bold;
+	text-align: center;
+	width: 632px;
+	box-shadow: 2px 2px #000;
+	color: #fff;
+	margin-top: 30px;
+}
+div.row5 .line4{
+	margin-top: 25px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-12.png');
+	background-repeat: no-repeat;
+}
+div.row5 .line4 .col1{
+	width: 295px;
+}
+div.row5 .line4 .col1 .el1{
+	color: #fff;
+	font-weight: bold;
+	height:44px;
+}
+div.row5 .line4 .col1 .el2{
+	color: #4f4f4f;text-align:justify;
+}
+div.row5 .line4 .col1 .link a{
+	position: relative;
+	width: 342px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	display: inline-block;
+	background-color: #ff6600;
+	font-size: 18px;
+	color: #fff;
+	border-radius: 5px;
+	left: -150px;
+	top:40px;
+	box-shadow: 2px 2px #000;
+}
+div.row5 .line5{
+	margin:0px auto;
+	margin-top: 20px;
+	background-color: #fbf2ed;
+	color:#3b3a3a;
+	padding:5px;
+	width: 875px;
+}
+div.row5 .line6{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-13.png');
+	background-repeat: no-repeat;
+	height:371px;
+	margin-top: 50px;
+}
+div.row5 .line6 .col1{
+	width: 277px;
+} 
+div.row5 .line6 .col1 .color1{
+	color: #fff;
+}
+div.row5 .line6 .col1 .color2{
+	color: #3b3a3a;
+}
+/**/
+div.row6{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-14.png');
+	background-repeat: no-repeat;
+	height: 689px;
+	margin-top: 40px;
+	padding-top: 100px;
+}
+div.row6 div.line1{
+	font-size: 30px;
+	font-weight: bold;
+}
+div.row6 div.line2{
+	margin-top: 5px;
+}
+div.row6 div.line3{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-15.png');
+	background-repeat: no-repeat;
+	height: 286px;
+	margin-top: 46px;
+}
+div.row6 div.line3 .col1{
+	width: 300px;
+	padding:110px 15px;
+	color: #464646;
+	font-size: 18px;
+	text-align: justify;
+}
+div.row6 div.line4{
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-16.png');
+	background-repeat: no-repeat;
+	height: 55px;
+	line-height: 55px;
+	margin-top: 50px;
+	color: #fff;
+	font-weight: bold;
+}
+div.row6 div.line4 a{
+	display: inline-block;
+	margin-left: 2px;
+}
+div.row6 div.line4 a:last-child{
+	margin-left: 18px;
+}
+/**/
+div.row7{
+	padding-top: 45px;
+}
+div.row7 div.line1{
+	background-image: url(../../images/chuyende/catbaoquydau/catbaoquydau-10.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 98px;
+    color: #fff;
+    font-size: 18px;
+    padding-left: 30px;
+}
+div.row7 div.line2{
+	margin-top: 30px;
+}
+div.row7 div.line2 .col1{
+	width: 475px;
+}
+div.row7 div.line2 .cols2{
+	width: 425px;
+}
+div.row7 div.line2 .colss1{
+	width: 330px;
+	color: #008081;
+}
+div.row7 div.line2 .colss2{
+	color: #fe0131;
+}
+div.row7 div.line2 .line21{
+	color: #454545;
+}
+div.row7 div.line3{
+	text-align:center;
+	text-transform: uppercase;
+	margin-top: 70px;
+	color: #008081;
+	font-weight: bold;
+	font-size: 18px;
+}
+div.row7 div.line4{
+	text-align:center;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: bold;
+	font-size: 18px;
+	width: 800px;
+	height: 30px;
+	background-color: #008081;
+	line-height: 30px;
+	margin:0px auto;
+}
+div.row7 div.line5{
+	height: 350px;
+	margin-top: 75px;
+}
+div.row7 div.line5 .col1{
+	width: 342px;
+}
+div.row7 div.line5 .col1 >div:nth-child(2){
+	background-color: #019e97;
+	color: #fff;
+	padding:8px;
+}
+div.row7 div.line5 .col2,div.row7 div.line5 .col3{
+	width: 318px;
+}
+div.row7 div.line5 .bg{
+	width: 318px;
+	height: 63px;
+	background-image: url('../../images/chuyende/catbaoquydau/catbaoquydau-19.png');
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+div.row7 div.line5 .color1{
+	font-size: 13px;
+	color:#009899;
+	width: 236px;
+}
+div.row7 div.line5 .color2{
+	font-size: 13px;
+	color: #4c4c4c;width: 236px;
+}
+div.row7 div.line5 .bg2{
+	background-position:0px -79px; 
+}
+div.row7 div.line5 .bg3{
+	background-position:0px -161px; 
+}
+div.row7 div.line5 .bg4{
+	background-position:-338px 0px; 
+}
+div.row7 div.line5 .bg5{
+	background-position:-338px -79px; 
+}
+div.row7 div.line5 .bg6{
+	background-position:-338px -161px; 
+}
+div.row7 div.line6{
+	margin-top: 20px;
+}
+div.row7 div.line6 div.col1{
+	width: 234px;
+	height: 95px;
+	background-color: #ff7f70;
+	color: #fff;
+	margin-bottom: 20px;
+}
+div.row7 div.line6 div.col1 >a{
+	width: 100%;
+	display: block;
+	height: 95px;
+}
+div.row7 div.line6 div.col1 >a>div{
+	width: 100%;
+}
+div.row7 div.line6 div.col1 >a>div:first-child{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+div.row7 div.line6 div.col1:nth-child(3) a>div:nth-child(2){
+	font-size: 26px;
+}
+/**/
+main a:hover{
+	text-decoration: underline;
+}
+main a.hvr-fade{
+	background-color: transparent;
+}
+main a.hvr-fade:hover{
+	text-decoration: none;
+}

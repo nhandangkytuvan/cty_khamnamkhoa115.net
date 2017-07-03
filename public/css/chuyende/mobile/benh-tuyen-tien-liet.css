@@ -1,0 +1,114 @@
+body{background-color: #d3d3d3;}
+body div.container,header{background-color: #fff;}
+
+div.row1{margin-top: 10px;padding-top: 15px;}
+div.global1 .cell1{padding:0px 15px;width: 97px;}
+div.global1 .cell1 i{display: block;margin:0px auto;width: 67px;height: 78px;}
+div.global1 .cell1 i{background-image: url('../../../images/chuyende/mobile/benhtuyentienliet/benhtuyentienliet-2.png');background-repeat: no-repeat;}
+div.global1 .cell2{padding-left:20px;color: #00737d;}
+div.global1 .cell2 span{color: #ff711a;}
+div.global1 .cell3{padding:0px 15px;}
+div.global1 .cell3 .bg1{background-color: #ff711a;padding:10px;color: #fff;}
+div.global1{border-bottom: 2px solid #dcdcdc;}
+/**/
+div.row2{margin:0px 15px;padding-bottom: 15px;}
+div.row2>div{margin:0px -8px;}
+div.row2 div.col-xs-4{padding:0px 8px;margin-top: 20px;}
+div.row2 div.col-xs-4 .heading{background-color: #00737d;color: #fff;height: 50px;}
+div.row2 a.bg1{color: #fff;bottom: 0;width: 100%;background-image: url('../../../images/chuyende/mobile/benhtuyentienliet/benhtuyentienliet-9.png');height: 36px;}
+/**/
+div.row3{border-top: 10px solid #d3d3d3;padding-top: 5px;}
+div.row3 .global1 i{background-position: -67px 0px;}
+
+div.row4{padding:0px 15px 15px 15px;}
+div.row4 .line{margin-top: 15px;}
+div.row4 .cell1{background-color: #17a7b0;color: #fff;text-align: center;text-transform: uppercase;padding:5px;width: 150px;}
+div.row4 .cell2{background-color: #e8f5f7;padding:5px;color: #3f3f3f;padding-left: 10px;}
+div.row4 .des1{margin-top: 10px;color: #3f3f3f;}
+div.row4 .footer{background-color: #f8e9d0;padding:10px;margin-top: 15px;}
+div.row4 .footer span{color: #ff0000;}
+/**/
+div.row5{border-top: 15px solid #d3d3d3;padding-top: 5px;}
+div.row5 .global1 i{background-position: -134px 0px;}
+/**/
+div.row6{padding:15px;}
+div.row6 .line{margin-top: 15px;}
+div.row6 .line .bg{background-color: #dadada;font-weight: bold;font-size: 14px;height: 45px;}
+div.row6 .line .des{margin-top: 15px;margin-bottom: 28px;}
+div.row6 .footer{margin-top: 40px;background-color: #e8eefb;color: #910200;font-weight: bold;font-size: 14px;padding:8px 5px;}
+div.row6 .footer span{color: #ff711a;}
+
+div.row6 .line2{margin-top: 20px;}
+div.row6 .line2 .cell1{background-color: #00737d;color: #fff;font-size: 18px;text-align: center;text-transform: uppercase;width: 50px;min-height: 100px;}
+div.row6 .line2 .cell2{border:1px solid #b2b2b2;padding:10px;border-left: none;padding-left: 15px;}
+div.row6 .cell2.bg1{background-image: url('../../../images/chuyende/mobile/benhtuyentienliet/benhtuyentienliet-10.png');background-repeat: no-repeat;background-position: right center;}
+div.row6 .cell2.bg2{background-image: url('../../../images/chuyende/mobile/benhtuyentienliet/benhtuyentienliet-11.png');background-repeat: no-repeat;background-position: right center;}
+div.row6 .cell2.bg3{background-image: url('../../../images/chuyende/mobile/benhtuyentienliet/benhtuyentienliet-12.png');background-repeat: no-repeat;background-position: right center;}
+
+div.row6 .line2 .cell1.arrow_box {position: relative; background: #00737d; }
+div.row6 .line2 .cell1.arrow_box:after {left: 100%; top: 60%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-color: rgba(0, 115, 125, 0); border-left-color: #00737d; border-width: 10px; margin-top: -10px; }
+div.row6 .line3{margin-top: 25px;color: #00737d;}
+div.row6 .line3 span{color: #ff711a;}
+div.row6 .line4{margin-top: 40px;overflow-x: auto;}
+div.row6 table{border-spacing: 0; border-collapse: collapse;}
+div.row6 table tr.active td{background-color: #f9e9d0;}
+div.row6 table tr td{border:1px solid #b3b3b3;padding:10px 5px;color: #343434;text-align: center;}
+div.row6 table td.bginfo{background-color: #e2f7ff;}
+div.row6 table tr:last-child td{color: red;}
+div.row6 .line5{margin-top: 5px;}
+div.row6 .line6{margin-top: 5px;border-radius: 10px;border:1px dashed #b0b0b0;padding:10px;}
+div.row6 .line6 .cell2{padding-left: 20px;}
+div.row6 .line6 .cell2 div{margin-top: 5px;}
+div.row6 .line6 .cell2 div:nth-child(1){font-weight: bold; color: #00737d;}
+div.row6 .line6 .cell3 a{display: block;background-color: #ff711a;color: #fff;border-radius: 5px;padding:8px 5px;text-align: center;}
+/**/
+div.row7{border-top: 15px solid #d3d3d3;padding:0px 15px;padding-top: 5px;}
+div.row7 .global1{margin:0px -15px;}
+div.row7 .global1 i{background-position: -201px 0px;}
+div.row7 .line{margin-top: 20px;}
+
+div.row7 >div:nth-child(n+2){margin-top: 25px;}
+
+div.row7 .line1 .cell1 .font{font-size: 18px;font-weight: bold;}
+div.row7 .line1 .cell1 .des{margin-top: 10px;}
+div.row7 .line1 .cell2 {text-align: right;}
+div.row7 .line1 .cell1{padding:0px 10px;}
+div.row7 .line2{background-color: #e1e1e1;padding:5px;}
+div.row7 div.global2{margin-top: 30px;margin-bottom: 20px;}
+div.global2 div.dis-table{margin:0px auto;}
+div.global2 .cell1{padding-right: 5px;}
+div.global2 .cell2 a{display: block;background-color: #ff711a;text-align: center;color: #fff;border-radius: 0px;padding:5px;}
+
+/**/
+div.row8{border-top: 15px solid #d3d3d3;padding:0px 15px;padding-top: 5px;}
+div.row8 .global1{margin:0px -15px;}
+div.row8 .global1 i{background-position: -268px 0px;}
+div.row8 .line{margin-top: 15px;}
+div.row8 .line1{margin-top: 10px;}
+div.row8 .line1 span{display: inline-block;background-color: #04c8c1;color: #fff;padding:5px 10px;text-align: center;}
+div.row8 p{margin-top: 10px;border-bottom: 1px dashed #b0b0b0;padding-bottom: 5px;}
+div.row8 p span{font-weight: bold;}
+div.row8 .global2{margin-top: 20px;margin-bottom: 40px;}
+/*fixed*/
+
+footer >div:first-child{background-color: #e1e1e1;padding:15px;}
+footer p{color: #030303;font-size: 14px;margin-bottom: 10px;}
+footer p a{font-size: 12px;font-weight: bold;}
+
+menu{background-color: #00737d;}
+header .table-cell span{color: #00737d;}
+header .table-cell div.h3, header .table-cell h1{color: #00737d;}
+header .table-cell div.web-address{color: #e92426;font-weight: normal;}
+
+
+footer .footer-toolbar{background-color: #00737d;color: #fff;}
+footer .footer-toolbar .table-cell{background-color: #00737d;padding:5px 0px;width: 25%;}
+footer .footer-toolbar .table-cell h3{padding-top: 5px;}
+footer .footer-toolbar .table-cell i{font-size: 22px;}
+footer .footer-toolbar .table-cell h4{font-weight: normal;margin-top: 5px;}
+footer .footer-toolbar .table-cell a{display: block;text-align: center;}
+footer .footer-toolbar .table-cell i{background-image: none;}
+
+@media(min-width: 640px){
+  	div.row7 .line1 .cell1{padding:0px 10px;}
+}

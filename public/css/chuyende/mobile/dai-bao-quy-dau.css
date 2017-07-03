@@ -1,0 +1,97 @@
+div.row1 .dis-table{font-weight: bold;color: #fff;height: 50px;background-color: #c19e72;font-size: 14px;font-weight: bold;text-transform: uppercase;}
+/**/
+div.row2{margin-top: 12px;}
+div.row2 .row{margin:0px 3px;}
+div.row2 .row .col-sm-6{padding:0px 3px;height: 100%;}
+div.row2 div.dis-table{background-color: #ffefdf;border:1px solid #b7b5b3;padding: 30px 10px 20px 10px;margin-bottom: 5px;}
+div.row2 div.dis-table i{background-image: url('../../../images/chuyende/mobile/daibaoquydau/daibaoquydau-2.png');background-repeat: no-repeat;display: inline-block;width: 76px;height: 106px;}
+div.row2 div.dis-table .cell2{padding-left: 25px;}
+div.row2 div.dis-table .cell2 .title1{font-weight: bold;}
+div.row2 div.dis-table .cell2 .des1{margin-top: 18px;text-align: justify;}
+div.row2 div.dis-table i.bg2{background-position: -113px 0px;}
+div.row2 div.dis-table i.bg3{background-position: -222px 0px;}
+div.row2 div.dis-table i.bg4{background-position: -339px 0px;}
+/**/
+div.row3{margin-top: 15px;}
+div.global1{margin:0px 8.5px;}
+div.global1 .dis-table{background-image: url('../../../images/chuyende/mobile/daibaoquydau/daibaoquydau-3.png');background-repeat: no-repeat;}
+div.global1 .dis-table{margin:0px auto;width: 100%;color: #fff;}
+div.global1 .table-cell{height: 56px;}
+div.row4{margin-top: 20px;background-color: #efefef;padding-top: 15px;}
+div.row4 div.line1{background-color: #c19e72;color: #fff;padding:0px 10px;font-weight: bold;text-transform: uppercase;}
+div.row4 div.line1 div.dis-table{height: 50px;}
+div.row4 div.line2{padding:20px 10px;}
+div.row4 div.border{position: relative;}
+div.row4 div.border1:after {content:""; background: #efefef; position: absolute; bottom: -2px; right: -2px; height:2px; width: 70px;z-index: 9;}
+div.row4 div.border2:after {content:""; background: #efefef; position: absolute; top: -2px; left: -2px; height:2px; width: 70px;z-index: 9;}
+div.row4 div.border3:before {content:""; background: #efefef; position: absolute; top: -2px; left: -2px; height:2px; width: 70px;z-index: 9;}
+div.row4 div.border3:after {content:""; background: #efefef; position: absolute; top: -2px; right: -2px; height:2px; width: 73px;z-index: 9;}
+
+
+div.row4 div.border1{border-top: 2px solid #603913;border-bottom: 2px solid #603913;;border-left: 2px solid #603913;border-bottom-left-radius: 86px;border-top-left-radius: 86px;padding:18px;}
+div.row4 div.border .cell1 i{background-image: url('../../../images/chuyende/mobile/daibaoquydau/daibaoquydau-4.png');background-repeat: no-repeat;display: inline-block;width: 125px;height: 125px;}
+div.row4 div.border1 .cell2{padding-left: 20px;}
+div.row4 div.border .cell2 .title1{font-weight: bold;color: #5d3208;}
+div.row4 div.border .cell2 .col2 span,div.row4 div.border .cell2 .col2 i{color: #5d3208;}
+div.row4 div.border .cell2 .des1{margin-top: 10px;}
+
+div.row4 div.border2{margin-top: -2px;border-bottom: 2px solid #603913;;border-top: 2px solid #603913;border-right: 2px solid #603913;border-bottom-right-radius: 86px;border-top-right-radius: 86px;padding:18px;}
+div.row4 div.border2 .cell2{padding-right: 20px;}
+
+div.row4 div.border3{margin-top: -2px;border-bottom: 2px solid #603913;border-top: 2px solid #603913;border-left: 2px solid #603913;border-bottom-left-radius: 86px;border-top-left-radius: 86px;padding:18px;}
+div.row4 div.border3 .cell2{padding-left: 20px;}
+
+div.row4 div.border .cell1 i.bg2{background-position: -142px 0px;}
+div.row4 div.border .cell1 i.bg3{background-position: -285px 0px;}
+
+div.row5{margin-top: 22px;background-color: #c19e72;padding:20px 10px;}
+div.row5>div:nth-child(1){color: #5e340b;font-size: 14px;font-weight: bold;}
+div.row5>div:nth-child(2){color: #fff;margin-top: 5px;}
+
+div.row6{margin-top: 28px;}
+div.row6 div.line1 div:nth-child(1){font-weight: bold;}
+div.row6 div.line1 div.des1{margin-top: 15px;padding:0px 10px;}
+div.row6 div.line1 div.list-table{margin-top: 15px;padding:0px 10px;}
+div.row6 div.line1 div.dathen{margin-top: 10px;}
+
+div.row7{margin-top: 20px;background-color: #efefef;padding-top: 15px;padding-bottom: 20px;}
+div.row7 div.line1{background-color: #c19e72;padding:15px 10px;color: #fff;font-weight: bold;}
+div.row7 div.line1 >div:nth-child(2){margin-top: 5px;}
+
+div.row7 div.line2{padding:0px 10px;margin-top: 15px;}
+div.row7 div.line2 a{color: red;}
+div.row7 div.line3{margin:0px 10px;margin-top: 25px;}
+div.row7 div.line3 .dis-table{margin-bottom:10px;}
+div.row7 div.line3 .dis-table .table-cell.cell1{width: 48%;background-color: #603913;height: 44px;color: #fff;padding:0px 10px;}
+
+div.row8{margin-top: 25px;}
+div.row8 div.line1{background-color: #c19e72;}
+div.row8 div.line1 .dis-table{height: 75px;padding:0px 10px;font-weight: bold;color: #fff;}
+div.row8 .border{margin:0px 10px;margin-top: 10px;border:1px solid #c5a47b;padding:10px;}
+div.row8 .border .title{font-weight: bold;color: #603913;}
+div.row8 .border .des1{margin-top: 10px;}
+div.row8 .global1{margin-top: 20px;}
+div.row9{margin-top: 5px;margin-bottom: 10px;}
+/*fixed*/
+
+footer >div:first-child{background-color: #e1e1e1;padding:15px;}
+footer p{color: #030303;font-size: 14px;margin-bottom: 10px;}
+footer p a{font-size: 12px;font-weight: bold;}
+
+menu{background-color: #bd9159;}
+header .table-cell span{color: #796252;}
+header .table-cell div.h3, header .table-cell h1{color: #796252;}
+header .table-cell div.web-address{color: #e92426;font-weight: normal;}
+
+
+footer .footer-toolbar{background-color: #b48e5c;color: #fff;}
+footer .footer-toolbar .table-cell{background-color: #b48e5c;padding:5px 0px;width: 25%;}
+footer .footer-toolbar .table-cell h3{padding-top: 5px;}
+footer .footer-toolbar .table-cell i{font-size: 22px;}
+footer .footer-toolbar .table-cell h4{font-weight: normal;margin-top: 5px;}
+footer .footer-toolbar .table-cell a{display: block;text-align: center;}
+footer .footer-toolbar .table-cell i{background-image: none;}
+
+@media(min-width: 640px){
+  div.row2 .dis-table{height: 214px;}
+}

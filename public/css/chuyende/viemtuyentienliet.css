@@ -1,0 +1,318 @@
+div.row2{
+	height: 267px;
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-2.png');
+	background-repeat: no-repeat;
+}
+div.row2 .flex1{
+	height:267px;
+}
+div.row2 .flex1col2{
+	margin-left: 30px;
+	width:400px;
+}
+div.row2 .flex1col2 h1{
+	font-size: 24px;
+	color: #fff000;
+	font-weight: normal;
+}
+div.row2 .flex1col2 div{
+	color: #fefefe;
+	font-size: 24px;
+	margin-top: 5px;
+}
+div.row2 .flex1col2 p{
+	color: #ffffff;
+	font-size: 16px;
+	margin-top: 34px;
+}
+div.row2 .flex1col3{
+	width:256px;
+	margin-left: 65px;
+}
+div.row2 .flex1col3 a{
+	display: block;
+	height:78px;
+	line-height: 78px;
+	text-align: center;
+	font-size: 24px;
+	color: #333333;
+	background-color: #fff;
+	border-radius: 5px;
+	width: 100%;
+}
+/**/
+div.row3 h2:nth-child(1){
+	margin-top: 54px;
+	font-size: 30px;
+	font-weight: normal;
+	color: #333333;
+}
+div.row3 div.flex1{
+	margin-top: 53px;
+}
+div.row3 div.flex1col1{
+	width:470px;
+	border:1px solid #787878;
+	border-radius: 10px;
+}
+div.row3 div.flex1col1 div.heading{
+	height:108px;
+	background-color: #01a6dc;
+	color: #fff;
+	font-size: 30px;
+	line-height: 108px;
+	text-align: center;
+	border-radius: 10px;
+	margin:-1px;
+}
+div.row3 div.flex1col1 div.body{
+	padding:25px 0px 36px 0px;
+}
+div.row3 div.flex1col1 div.body p{
+	padding:8px 45px;
+}
+div.row3 div.flex1col1 div.body p:nth-child(2n+2){
+	background-color: #f4f4f4;
+}
+div.link-tuvan{
+	display: block;
+	height:56px;
+	color: #fff;
+	font-size: 20px;
+	line-height: 56px;
+	background-color: #fb8d14;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 40px;
+}
+div.link-tuvan a{
+	display: block;height:56px;line-height: 56px;
+}
+div.link-tuvan a:hover{
+	text-decoration: underline;
+}
+div.row3 h2:nth-of-type(2){
+	margin-top: 54px;
+	font-size: 30px;
+	font-weight: normal;
+	color: #333333;
+}
+/**/
+div.row4{
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-4.png');
+	background-repeat: no-repeat;
+	height: 627px;
+	margin-top: 60px;
+	padding-top: 38px;
+}
+div.row4 h2{
+	font-weight: normal;
+	font-size: 30px;
+	color: #333333;
+}
+div.row4 .flex1{
+	margin-top: 100px;
+}
+div.row4 .flex1col2{
+	width: 467px;
+	background-color: #d8eaef;
+	padding:10px;
+}
+div.row4 .flex1col2 >div:nth-child(1){
+	text-align: center;
+	border:1px solid #3ad1fb;
+	height: 45px;
+	line-height: 45px;
+	color: #06a1d4;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+div.row4 .flex1col2 >p{
+	color: #0085aa;
+	padding:0px 20px;
+	margin:20px auto;
+}
+/**/
+div.row5{
+	padding-top: 33px;
+}
+div.global2 >div{
+	height: 60px;
+	padding:0px 100px;
+	border:1px dashed #303030;
+	text-align: center;
+	font-size: 30px;
+	line-height: 60px;
+	color: #333333;
+	display: inline-block;
+}
+div.global2 span{
+	color: #fb8d14;
+}
+div.row5 >div.container>p:nth-of-type(1){
+	margin-top: 45px;
+	text-align: justify;
+	color: #333333;
+}
+div.row5 >div.container>p:nth-of-type(2){
+	margin-top: 35px;
+	text-align: justify;
+	color: #333333;
+}
+div.row5 .flex1{
+	margin-top: 25px;
+}
+div.row5 .flex1 .body{
+	border:1px solid #777777;
+	padding-top: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	height:339px;
+}
+div.row5 .flex1col1{
+	width: 462px;
+}
+div.row5 .flex1col1 img{
+	width:462px;height: 186px;
+}
+div.row5 .flex1col1>div:nth-child(2){
+	margin-top: -3px;
+}
+div.row5 .flex1 .body >div:nth-child(1){
+	height:38px;
+	line-height: 38px;
+	color: #fff;
+	text-align: center;
+	border-bottom: 38px solid #01a6dc;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+}
+div.row5 .flex1 .body >p:nth-of-type(1){
+	margin-top: 45px;
+	color: #373737;
+}
+div.row5 .flex1 .body >p>span{
+	color: #0088b5;
+}
+div.row5 .flex1 .body >div:nth-of-type(2){
+	height:33px;
+	line-height: 33px;
+	width: 218px;
+	background-color: #ff8030;
+	margin-top: 45px;
+	color: #fff;
+	padding-left: 30px;
+}
+div.row5 .flex1 .body >p:nth-of-type(n+2){
+	color: #ff8030;
+	margin-top: 25px;
+}
+/**/
+div.row5 .flex2{
+	margin-top: 50px;
+	border:1px solid #777777;
+}
+div.row5 .flex2 .flex2col2{
+	width: 532px;
+}
+div.row5 .flex2 .flex2col2 >div:nth-child(1){
+	height:38px;
+	line-height: 38px;
+	color: #fff;
+	text-align: center;
+	border-bottom: 38px solid #a5a5a5;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	margin-top: 12px;
+}
+div.row5 .flex2 .flex2col2 >p:nth-of-type(1){
+	padding:5px 10px;
+}
+div.row5 .flex2 .flex2col2 >div:nth-of-type(2){
+	display: inline-block;
+	height:23px;
+	line-height: 23px;
+	padding:0px 10px;
+	background-color: #a5a5a5;
+	color: #fff;
+}
+div.row5 .flex2 .flex2col2 >p{
+	padding:0px 10px;
+}
+div.row5 .flex2 .flex2col2 >p:nth-of-type(2){
+	margin-top: 15px;
+}
+div.row5 div.link-tuvan{
+	width:570px;
+	margin:40px auto;
+}
+div.row6 div.flex1{
+	margin-top: 35px;
+}
+div.row6 div.flex1col2{
+	width: 543px;
+}
+div.row6 div.flex1col2>div:nth-of-type(1){
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-11.png');
+	height: 52px;
+	line-height: 52px;
+	background-repeat: no-repeat;
+	color: #fff;
+}
+div.row6 div.flex1col2>p{
+	margin-top: 30px;
+	line-height: 20px;
+}
+div.row6 div.link-tuvan{
+	width:683px;
+	margin:50px auto;
+}
+/**/
+div.row7 div.container>p:nth-of-type(1){
+	margin-top: 40px;
+}
+div.row7 div.container>div:nth-of-type(2){
+	margin-top: 20px;
+	margin-bottom: 78px;
+}
+div.row8 .flex1{
+	margin-top: 50px;
+}
+div.row8 .flex1col1{
+	width: 313px;
+	height: 444px;
+	background-repeat: no-repeat;color: #fff;
+	padding:0px 20px;
+}
+div.row8 .flex1col1:nth-child(1){
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-13.png');
+}
+div.row8 .flex1col1:nth-child(2){
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-14.png');
+}
+div.row8 .flex1col1:nth-child(3){
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-15.png');
+}
+div.row8 .flex1col1 >div:nth-of-type(1){
+	margin-top: 215px;
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #fff;
+}
+div.row8 .flex1col1 >p:nth-of-type(1){
+	margin-top: 10px;line-height: 18px;
+}
+div.row8 div.link-tuvan{
+	width: 728px;
+	margin:50px auto;
+}
+/**/
+div.row9 .flex1{
+	margin-top: 80px;
+}
+div.row9 div.bg{
+	background-image: url('../../images/chuyende/viemtuyentienliet/viemtuyentienliet-21.png');
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-bottom: 40px;
+}

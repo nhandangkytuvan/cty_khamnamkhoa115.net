@@ -1,0 +1,114 @@
+div.chuyende div.row1{margin:35px 20px 0px 20px;border:1px solid #d3d3d3;}
+div.chuyende div.row1 .table1 >.cell1{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-2.png');background-repeat: repeat-y;background-size: cover;}
+div.chuyende div.row1 .table1 >.cell1{width: 72px;min-height: 180px;color: #fff;padding:0px 5px;}
+div.chuyende div.row1 .table1 >.cell2{padding:0px 10px 0px 10px;width: calc(100% - 72px)}
+div.chuyende div.row1 .table1 >.cell2>*{margin:10px 0px;}
+div.chuyende div.row1 .table1 >.cell2 p{color: #363636;font-size: 14px;line-height: 15px;}
+div.chuyende div.row1 .table2{min-width: 177px;height: 45px;border:1px solid #1542bf;border-radius: 5px;color: #1542bf;padding:0px 10px;}
+div.chuyende div.row1 .table2 >.cell1 i{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-3.png');background-repeat: no-repeat;width: 25px;height: 25px;display: inline-block;}
+/**/
+div.chuyende div.row2{margin-top: 25px;}
+div.chuyende div.global1 .line1{font-size: 14px;color: #1542bf;font-weight: bold;}
+div.chuyende div.global1 .line2{text-align: center;}
+div.chuyende div.global1 .line2 span{font-size: 14px;color: #1542bf;font-weight: bold;text-align: center;display: inline-block;background-color: #fff;}
+div.chuyende div.global1 .line3 span{font-size: 11px;color: #fff;background-color: #bebdbd;display: inline-block;padding:5px 20px;border-radius: 10px;}
+div.chuyende div.global1 .bg{padding-bottom: 7px;}
+div.chuyende div.global1 .line3{border:1px solid #d3d3d3;width: 100%;margin:0px auto;padding-top:22px;padding-bottom: 10px;margin-top: -8px;}
+/**/
+div.chuyende div.row3{margin-top: 25px;padding:0px 20px;}
+div.chuyende div.row3 div.table1{margin-bottom: 37px;}
+div.chuyende div.row3 div.table1 .table-cell{padding:0px 5px;}
+div.chuyende div.row3 div.table1 .table-cell div{max-width: 140px;margin:0px auto;}
+div.chuyende div.row3 div.table1 .table-cell span{display: block;margin-top: 20px;color: #1542bf;text-align: center;}
+div.chuyende div.global2 div.line1{padding-left: 15px;}
+div.chuyende div.global2 div.line1 span{display: inline-block;background-color: #ff0024;color: #fff;height: 20px;line-height: 20px;padding:0px 5px;}
+div.chuyende div.global2 div.line2{border:1px solid #1542bf;padding:25px 15px 15px 15px;color: #434343;margin-top: -10px;}
+div.chuyende div.row3 div.global3{margin-top: 28px;}
+div.chuyende div.global3{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-14.png');background-repeat: repeat-y;padding:11px 10px;color: #fff;}
+/**/
+div.chuyende div.row4{margin-top: 25px;background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-15.png');padding-top: 25px;padding-bottom: 40px;}
+div.chuyende div.row4 div.description{padding:20px;margin-top: 15px;margin-left: 15px;margin-right: 15px;border: 6px solid transparent;border-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-16.png') 6 round;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1){background-color: #21c4e7;color: #fff;width: 106px;}
+div.chuyende div.row4 div.table1{padding:25px 20px;border-bottom: 1px solid #b3b3b3;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1){padding:10px 5px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) i{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-17.png');background-repeat: no-repeat;width: 75px;height: 75px;display:block;background-size: cover;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) i.bg2{background-position: 0px -85px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) i.bg3{background-position: 0px -170px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) i.bg4{background-position: 0px -255px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) i.bg5{background-position: 0px -339px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(1) h2{font-size: 14px;font-weight: normal;margin-top: 5px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(2){color: #393939;padding-left: 18px;width: calc(100% - 106px)}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(2)>div{margin-top: 5px;}
+div.chuyende div.row4 div.table1 .table-cell:nth-child(2) div:nth-child(2) span{height: 30px;text-decoration: uppercase;color: #fff;font-size: 14px;line-height: 30px;display: inline-block;padding:0px 10px;background-color: #21c4e7;}
+div.chuyende div.row4 div.global2{margin-top: 25px;margin-left: 20px;margin-right: 20px;}
+div.chuyende div.row4 div.global3{margin-top: 15px;margin-left: 20px;margin-right: 20px;}
+/**/
+div.chuyende div.row5{margin-top: 35px;}
+div.chuyende div.row5 div.row{margin-top: 30px;}
+div.chuyende div.row5 div.col-sm-4{padding:0px 5px;}
+div.chuyende div.row5 div.col-sm-4>div{border:1px solid #d3d3d3;padding-top: 30px;text-align: center;min-height: 316px;}
+div.chuyende div.row5 div.row .col-sm-4 >div>div{margin-top: 5px;}
+/**/
+div.chuyende div.row5 div.col-sm-4 i{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-18.png');background-repeat: no-repeat;display: inline-block;}
+div.chuyende div.row5 div.col-sm-4 i.bg1{width: 46px;height: 50px;background-position: -46px 0px;}
+div.chuyende div.row5 div.col-sm-4 i.bg2{width: 140px;height: 35px;background-position: 0px -131px;}
+div.chuyende div.row5 div.col-sm-4 i.bg3{width: 36px;height: 50px;background-position: -256px 0px;}
+div.chuyende div.row5 div.col-sm-4 i.bg4{width: 140px;height: 35px;background-position: -210px -131px;}
+div.chuyende div.row5 div.col-sm-4 i.bg5{width: 52px;height: 50px;background-position: -452px 0px;}
+div.chuyende div.row5 div.col-sm-4 i.bg6{width: 140px;height: 35px;background-position: -406px -131px;}
+div.chuyende div.row5 div.col-sm-4 div.text-justify p{color:#313131;padding:0px 10px;min-height: 96px;}
+div.chuyende div.row5 div.col-sm-4 a.width-100{display: block;color: #fff;background-color: #edad3c;padding:5px; font-size: 13px;}
+/**/
+div.chuyende div.row6{margin-top: 40px;background-color: #f1f1f1;padding: 40px 20px 25px 20px;}
+div.chuyende div.row6 div.global1 .line2 span{background-color: #f1f1f1;}
+div.chuyende div.row6 div.row{background-image: url('../../../images/chuyende/mobile/viemnhiemquydau/viemnhiemquydau-19.png');background-size: cover;background-repeat: repeat-y;}
+div.chuyende div.row6 div.row{height: 105px;margin-top: 35px;}
+div.chuyende div.row6 div.row >div.col-sm-5{color:#fff;font-weight: bold;font-size: 13px;padding-top: 5px;}
+div.chuyende div.row6 div.row >div.col-sm-7{color:#fff;padding-top: 5px;}
+div.chuyende div.row6 div.row >div.col-sm-7>div>div:nth-child(1){font-weight:bold;margin-left: 0px;font-size: 13px;}
+div.chuyende div.row6 div.row >div.col-sm-7>div>div:nth-child(2){font-size: 11px;}
+
+div.chuyende div.row6 div.truong >div.border{border:1px solid #d3d3d3;border-top: none;padding:10px;color: #535353;}
+div.chuyende div.row6 div.truong >div.border div.link{margin-top: 10px;}
+div.chuyende div.row6 div.truong >div.border div.link a{height: 32px;color: #fff;width: 175px;background-color: #edad3c;box-shadow: 1px 1px #000;border-radius: 15px;padding-left: 10px;}
+div.chuyende div.row6 div.truong >div.border div.link a img{margin-right: 10px;}
+div.chuyende div.row6 div.global3{margin-top: 15px;}
+/**/
+div.chuyende div.row7{margin-top: 30px;margin-bottom: 20px;}
+div.chuyende div.row7 div.row{margin:0px -5px;margin-top: 40px;min-height: 255px;}
+div.chuyende div.row7 div.row div.col-sm-7>div>div{margin-top: 10px;}
+div.chuyende div.row7 div.row div.col-sm-7{padding:0px 5px;}
+div.chuyende div.row7 div.row div.col-sm-5{padding:0px 5px;}
+div.chuyende div.row7 div.row div.col-sm-7 >div{margin-bottom: 10px;}
+div.chuyende div.row7 div.row div.col-sm-7 >div{border:1px solid #d3d3d3;padding:0px 10px 10px 10px;}
+div.chuyende div.row7 div.row div.col-sm-5 >div{border:1px solid #d3d3d3;}
+div.chuyende div.row7 div.cell1>div{background-color: #00a0e9;color: #fff;font-weight: bold;padding:10px;margin-right: 10px;}
+div.chuyende div.row7 div.cell2{width: calc(100% - 44px);}
+div.chuyende div.row7 div.row div.col-sm-7>div>div:nth-child(2) span{background-color: #edad3c;height: 26px;line-height: 26px;display: inline-block;padding:0px 10px;color: #fff;}
+div.chuyende div.row7 div.row div.col-sm-7>div>div:nth-child(4) span{border:1px solid #00a0e9;height: 28px;line-height: 28px;color: #00a0e9;font-weight: bold;text-align: center;display: inline-block;width: 144px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:nth-child(1){background-color: #edad3c;color: #fff;font-weight: bold;padding:10px;height: 54px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:nth-child(2){padding:0px 10px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:nth-child(4){padding:0px 10px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:last-child{padding:0px 10px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div.border{border-top:1px dashed #d3d3d3;height: 1px;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:last-child{margin:20px auto;}
+div.chuyende div.row7 div.row div.col-sm-5>div>div:last-child a{background-color: #00a0e9;color: #fff;min-height: 40px;text-align:center;font-weight: bold;border-radius: 20px;}
+
+
+/*fix 640px*/
+@media (min-width: 640px) {
+	div.chuyende div.row6 div.row >div.col-sm-5{padding-top: 30px;}
+	div.chuyende div.row6 div.row >div.col-sm-7{padding-top: 30px; padding-left: 80px;padding-right: 10px;}
+}
+/*footer*/
+footer >div:first-child{background-color: #e1e1e1;padding:15px;}
+footer p{color: #030303;font-size: 14px;margin-bottom: 10px;}
+footer p a{font-size: 12px;font-weight: bold;}
+/*forHome*/
+footer .footer-toolbar{background-color: #103a8c;color: #fff;}
+footer .footer-toolbar .table-cell{background-color: #103a8c;padding:5px 0px;width: 25%;}
+footer .footer-toolbar .table-cell h3{padding-top: 5px;}
+footer .footer-toolbar .table-cell i{font-size: 22px;}
+footer .footer-toolbar .table-cell h4{font-weight: normal;margin-top: 5px;}
+footer .footer-toolbar .table-cell a{display: block;text-align: center;}
+footer .footer-toolbar .table-cell i{background-image: none;}

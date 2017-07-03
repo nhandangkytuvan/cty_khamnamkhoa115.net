@@ -1,0 +1,58 @@
+.myoverlay{
+	position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 100%; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.mypopup1{max-width: 250px;margin:0px auto;margin-top: 100px;}
+.mypopup1 .heading{background-color: #00a6b5;padding:10px;color: #fff;}
+.mypopup1 .heading .pos-absolute{right: 0px;top:0px;z-index: 999999999999999999999999;}
+.mypopup1 .heading .cell2{padding-left: 10px;}
+.mypopup1 .panel-body{border:1px solid #00a6b5;background-image: url('../../../public/images/popup/mypopup1/mypopup-3.png');padding:5px 10px;}
+.mypopup1 .panel-body .des1{margin-top: 20px;font-size: 12px;line-height: 16px;}
+.mypopup1 .panel-body .des1 .color1{color: red;}
+.mypopup1 .panel-body .des1 .color2{color: #00a6b5;}
+/**/
+.mypopup1 .panel-body .inputphone{margin-top: 20px;}
+.mypopup1 .panel-body .inputphone input{outline: none;border:1px solid #939286;border-radius: 5px;padding:5px;color: #989898;height: 31px;}
+.mypopup1 .panel-body .inputphone button{outline: none;border:1px solid #939286;border-radius: 10px;background: linear-gradient(#e3feff,#008999);color: #000;padding:8px 10px;cursor: pointer;}
+.mypopup1 .panel-body .text-des{background-color: #fef9cc;padding:5px;margin:0px -10px;margin-top: 15px;}
+.mypopup1 .panel-body .text-des span{color: #008591;}
+.mypopup1 .panel-body .can-call{color: #989898;margin-top: 15px;}
+.mypopup1 .panel-body .can-call span{color: red;}
+.mypopup1 .panel-footer{margin-top: 15px;}
+.mypopup1 .panel-footer>div{background-color: #f279c6;color: #fff;font-weight: bold;font-size: 27px;border:1px solid #ac9ca6;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

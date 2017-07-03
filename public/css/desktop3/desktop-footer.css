@@ -1,0 +1,56 @@
+footer .row1{background-color: #51515a;height: 286px;padding-top: 35px;}
+footer .row1 .table1{width: 100%;border-spacing: 0;color: #fff;}
+footer .row1 .table1 .cell1{padding-right: 30px;}
+footer .row1 .table1 .cell1 >div:nth-child(1){padding-bottom: 10px;border-bottom: 1px solid #797979;}
+footer .row1 .table1 .cell1 .link{padding:10px 0px;border-bottom: 1px dashed #797979;}
+footer .row1 .table1 .cell1 .link a{display: table}
+footer .row1 .table1 .cell1 .link a i{background-image: url('imghome/home-36.png');display: inline-block;vertical-align: middle;}
+footer .row1 .table1 .cell1 .link a span:nth-child(1){width: 22px;}
+footer .row1 .table1 .cell1 .link a span:nth-child(2){padding-left: 10px;}
+footer .row1 .table1 .cell1 .link a i.bg1{width: 22px;height: 18px;background-position: 0px 0px;}
+footer .row1 .table1 .cell1 .link a i.bg2{width: 15px;height: 23px;background-position: 0px -36px;}
+footer .row1 .table1 .cell1 .link a i.bg3{width: 19px;height: 21px;background-position: 0px -72px;}
+footer .row1 .table1 .cell1 .link a i.bg4{width: 15px;height: 17px;background-position: 0px -107px;}
+footer .row1 .table1 .cell1 .link a i.bg5{width: 17px;height: 21px;background-position: 0px -143px;}
+/**/
+footer .row1 .table1 .cell2{padding-left: 20px;}
+footer .row1 .table1 .cell2 div:nth-child(1) i{background-image: url('imghome/home-37.png');width: 40px;height: 40px;background-position: 0px 0px;}
+footer .row1 .table1 .cell2 div:nth-child(1) span{padding-left: 10px;}
+footer .row1 .table1 .cell2 .link{padding:10px 0px;}
+footer .row1 .table1 .cell2 div:nth-child(1) i.bg2{background-position: -40px 0px;}
+footer .row1 .table1 .cell2 div:nth-child(1) i.bg3{background-position: -80px 0px;}
+footer .row1 .table1 .cell2 div:nth-child(1) i.bg4{background-position: -120px 0px;}
+footer .row1 .table1 .cell2 div:nth-child(1) i.bg5{background-position: -160px 0px;}
+/**/
+footer .row2{background-color: #30303a;height: 200px;color: #fff;}
+footer .row2 table{height: 200px;border-spacing: 0;}
+footer .row2 table .cell2{padding-left: 20px;}
+footer .row2 table .cell2 h3{font-size: 20px;font-weight: 400;}
+footer .row2 table .cell2 address{margin-top: 10px;font-size: 15px;color: #b1b1b1;font-style: normal;}
+footer .row2 table .cell3{padding-left: 260px;}
+footer .row2 table .cell3 p{font-weight: 400;margin-bottom: 10px;}
+footer .row2 table .cell3 p span{font-size: 24px;}
+footer .row2 table .cell3 div{font-style: italic;color: #b1b1b1;}
+
+/**/
+footer .row1 a:hover{color: #20a585;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
