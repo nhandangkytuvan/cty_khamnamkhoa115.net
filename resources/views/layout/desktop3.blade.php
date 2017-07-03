@@ -29,7 +29,7 @@
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/slick/slick-theme.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/toastr8/dist/css/toastr8.css') }}">
 
-	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/hover/css/hover.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/hover/css/hover.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/desktop3/desktop.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/desktop/desktop-popup.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/desktop3/desktop-header.css') }}">
@@ -40,22 +40,11 @@
 	<script type="text/javascript" src="{{ asset('public/js/global/jquery.popupoverlay.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('public/js/global/jquery-scrolltofixed-min.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('public/js/global/slick/slick.js') }}"></script>
-	<script type="text/javascript" src="{{ asset('public/js/global/toastr8/dist/js/toastr8.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('public/js/global/toastr8/dist/js/toastr8.min.js') }}"></script>
 	@yield('js')
-	<!-- <script type="text/javascript" src="{{ asset('public/js/desktop/desktop.js') }}"></script> -->
 	<!-- <script type="text/javascript" src="{{ asset('public/js/desktop/right.js') }}"></script> -->
 	<!-- <script type="text/javascript" src="{{ asset('public/js/desktop/dkdt.js') }}"></script> -->
 	<!-- <script type="text/javascript" src="{{ asset('public/js/desktop/swt.js') }}"></script> -->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-85212676-9', 'auto');
-	  ga('send', 'pageview');
-
-	</script>
 </head>
 <body>
     <header>
@@ -198,6 +187,10 @@
     </footer>
     @include('layouts.popupDesktop1')
     <div id="myloadding"><div id="mytext">Xin chờ chút...</div></div>
-    <script language="javascript" src="http://swt.phongkham193.com/JS/LsJS.aspx?siteid=MFI63108226&float=1&lng=en"></script>
+    <!-- <script language="javascript" src="http://swt.phongkham193.com/JS/LsJS.aspx?siteid=MFI63108226&float=1&lng=en"></script> -->
+    <script type="text/javascript" src="http://bd.sznj91.cn/public17527/js/scrollReveal.js"></script>
+    <script type="text/javascript">
+        window.scrollReveal = new scrollReveal({ reset:false,move:'10px',over: '.5s'});
+    </script>
 </body>
 </html>

@@ -102,7 +102,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="row2">
+	<div class="row2" >
 		<div class="container">
 			<div class="flex flex1 justify-content-between">
 				<div class="flex1col1 borleft">
@@ -114,10 +114,7 @@
 							<img src="{{ asset('public/css/desktop3/imghome/home-7.png') }}" alt="" class="center-block img-responsive">
 						</div>
 						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-8.png') }}" alt="" class="center-block img-responsive">
-						</div>
-						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-9.png') }}" alt="" class="center-block img-responsive">
+							<img src="{{ asset('public/css/desktop3/imghome/home-71.png') }}" alt="" class="center-block img-responsive">
 						</div>
 					</div>
 				</div>
@@ -127,13 +124,13 @@
 					</div>
 					<div class="myslick_config slick-tintuc body">
 						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-7.png') }}" alt="" class="center-block img-responsive">
+							<img src="{{ asset('public/css/desktop3/imghome/home-81.png') }}" alt="" class="center-block img-responsive">
 						</div>
 						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-8.png') }}" alt="" class="center-block img-responsive">
+							<img src="{{ asset('public/css/desktop3/imghome/home-82.png') }}" alt="" class="center-block img-responsive">
 						</div>
 						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-9.png') }}" alt="" class="center-block img-responsive">
+							<img src="{{ asset('public/css/desktop3/imghome/home83.png') }}" alt="" class="center-block img-responsive">
 						</div>
 					</div>
 				</div>
@@ -143,13 +140,13 @@
 					</div>
 					<div class="myslick_config slick-hoatdong body">
 						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-7.png') }}" alt="" class="center-block img-responsive">
-						</div>
-						<div>
-							<img src="{{ asset('public/css/desktop3/imghome/home-8.png') }}" alt="" class="center-block img-responsive">
-						</div>
-						<div>
 							<img src="{{ asset('public/css/desktop3/imghome/home-9.png') }}" alt="" class="center-block img-responsive">
+						</div>
+						<div>
+							<img src="{{ asset('public/css/desktop3/imghome/home-91.png') }}" alt="" class="center-block img-responsive">
+						</div>
+						<div>
+							<img src="{{ asset('public/css/desktop3/imghome/home-92.png') }}" alt="" class="center-block img-responsive">
 						</div>
 					</div>
 					<script>
@@ -176,7 +173,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="row3">
+	<div class="row3" data-scroll-reveal="enter bottom">
 		<div class="container pos-relative">
 			<div class="heading">
 				<span class="color1 text-uppercase">ĐỘI NGŨ Y BÁC SĨ NAM KHANG</span> 
@@ -196,7 +193,7 @@
 			<img src="{{ asset('public/css/desktop3/imghome/home-12.png') }}" alt="" class="pos-absolute pos1">
 		</div>
 	</div>
-	<div class="row4">
+	<div class="row4" data-scroll-reveal="enter bottom">
 		<div class="container">
 			<div class="flex flex1 justify-content-between">
 				<div class="flex1col1">
@@ -488,7 +485,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="row5">
+	<div class="row5" data-scroll-reveal="enter bottom">
 		<div class="container pos-relative">
 			<div class="heading">
 				<span class="color1 text-uppercase">TRUNG TÂM TRA TÌM BỆNH ÁN HỒI PHỤC</span> 
@@ -958,7 +955,7 @@
 			});
 		</script>
 	</div>
-	<div class="row6">
+	<div class="row6" data-scroll-reveal="enter bottom">
 		<div class="container">
 			<a href="#" class="dis-block hvr-float-shadow">
 				<img src="{{ asset('public/css/desktop3/imghome/home-29.png') }}" alt="" class="center-block">
@@ -1050,7 +1047,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="row7">
+	<div class="row7" data-scroll-reveal="enter bottom">
 		<div class="container">
 			<a href="#" class="hvr-rectangle-out">Liên hệ chúng tôi</a>
 		</div>
