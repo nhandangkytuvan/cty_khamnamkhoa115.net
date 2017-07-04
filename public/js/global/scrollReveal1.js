@@ -384,5 +384,3 @@ window.scrollReveal = (function (window) {
 
   return scrollReveal;
 })(window);
-
-window.scrollReveal = new scrollReveal({ reset:false,move:'10px',over: '.5s'});
