@@ -204,10 +204,28 @@
 									<img src="{{ asset('public/css/desktop3/imghome/home-15.png') }}" alt="">
 								</div>
 								<div class="flex2col2 pos-relative">
-									<h4 class="text-uppercase text-center">NGUYÊN NHÂN<br>VIÊM TUYẾN TIỀN LIỆT Ở NAM GIỚI</h4>
-									<div class="description text-justify">
-										Viêm tuyến tiền liệt là một trong những bệnh phổ biến của nam giới ở các lứa tuổi với tần số là từ 5 - 8%. Trong đó, 35 - 40% trường hợp là đàn ông ở độ tuổi 20 - 40. Các bác sỹ chuyên nam khoa Phòng khám chuyên khoa Nam Khang cho biết: Việc xác định nguyên nhân dẫn tới viêm tuyến tiền liệt ở nam giới góp phần thúc đẩy nhanh hơn quá trình điều trị bệnh... <a href="#">Chi tiết</a>
-									</div>
+									<ul>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
 									</div>
@@ -252,10 +270,28 @@
 									<img src="{{ asset('public/css/desktop3/imghome/roi-loan-cuong-duong.png') }}" alt="">
 								</div>
 								<div class="flex2col2 pos-relative">
-									<h4 class="text-uppercase text-center">NGUYÊN NHÂN<br>VIÊM TUYẾN TIỀN LIỆT Ở NAM GIỚI</h4>
-									<div class="description text-justify">
-										Viêm tuyến tiền liệt là một trong những bệnh phổ biến của nam giới ở các lứa tuổi với tần số là từ 5 - 8%. Trong đó, 35 - 40% trường hợp là đàn ông ở độ tuổi 20 - 40. Các bác sỹ chuyên nam khoa Phòng khám chuyên khoa Nam Khang cho biết: Việc xác định nguyên nhân dẫn tới viêm tuyến tiền liệt ở nam giới góp phần thúc đẩy nhanh hơn quá trình điều trị bệnh... <a href="#">Chi tiết</a>
-									</div>
+									<ul>
+										<li class="clearfix">
+											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
 									</div>
@@ -300,10 +336,28 @@
 									<img src="{{ asset('public/css/desktop3/imghome/thu-thuat-hep-bao-quy-dau.png') }}" alt="">
 								</div>
 								<div class="flex2col2 pos-relative">
-									<h4 class="text-uppercase text-center">NGUYÊN NHÂN<br>VIÊM TUYẾN TIỀN LIỆT Ở NAM GIỚI</h4>
-									<div class="description text-justify">
-										Viêm tuyến tiền liệt là một trong những bệnh phổ biến của nam giới ở các lứa tuổi với tần số là từ 5 - 8%. Trong đó, 35 - 40% trường hợp là đàn ông ở độ tuổi 20 - 40. Các bác sỹ chuyên nam khoa Phòng khám chuyên khoa Nam Khang cho biết: Việc xác định nguyên nhân dẫn tới viêm tuyến tiền liệt ở nam giới góp phần thúc đẩy nhanh hơn quá trình điều trị bệnh... <a href="#">Chi tiết</a>
-									</div>
+									<ul>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
 									</div>
@@ -348,10 +402,28 @@
 									<img src="{{ asset('public/css/desktop3/imghome/viem-nieu-dao.png') }}" alt="">
 								</div>
 								<div class="flex2col2 pos-relative">
-									<h4 class="text-uppercase text-center">NGUYÊN NHÂN<br>VIÊM TUYẾN TIỀN LIỆT Ở NAM GIỚI</h4>
-									<div class="description text-justify">
-										Viêm tuyến tiền liệt là một trong những bệnh phổ biến của nam giới ở các lứa tuổi với tần số là từ 5 - 8%. Trong đó, 35 - 40% trường hợp là đàn ông ở độ tuổi 20 - 40. Các bác sỹ chuyên nam khoa Phòng khám chuyên khoa Nam Khang cho biết: Việc xác định nguyên nhân dẫn tới viêm tuyến tiền liệt ở nam giới góp phần thúc đẩy nhanh hơn quá trình điều trị bệnh... <a href="#">Chi tiết</a>
-									</div>
+									<ul>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
 									</div>
@@ -396,10 +468,28 @@
 									<img src="{{ asset('public/css/desktop3/imghome/vosinhnam.png') }}" alt="">
 								</div>
 								<div class="flex2col2 pos-relative">
-									<h4 class="text-uppercase text-center">NGUYÊN NHÂN<br>VIÊM TUYẾN TIỀN LIỆT Ở NAM GIỚI</h4>
-									<div class="description text-justify">
-										Viêm tuyến tiền liệt là một trong những bệnh phổ biến của nam giới ở các lứa tuổi với tần số là từ 5 - 8%. Trong đó, 35 - 40% trường hợp là đàn ông ở độ tuổi 20 - 40. Các bác sỹ chuyên nam khoa Phòng khám chuyên khoa Nam Khang cho biết: Việc xác định nguyên nhân dẫn tới viêm tuyến tiền liệt ở nam giới góp phần thúc đẩy nhanh hơn quá trình điều trị bệnh... <a href="#">Chi tiết</a>
-									</div>
+									<ul>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+										<li class="clearfix">
+											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
+											<a href="#" class="pull-right">Chi tiết</a>
+										</li>
+									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
 									</div>

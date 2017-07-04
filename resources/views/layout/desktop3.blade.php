@@ -152,7 +152,7 @@
                                 <i class="bg4 table-cell"></i>
                                 <span class="table-cell">Vô sinh nam</span>
                             </div>
-                            <div class="link"><a href="#">> Vô tinh</a></div>
+                            <div class="link"><a href="#">> Không có tinh trùng</a></div>
                             <div class="link"><a href="#">> Tình trùng ít</a></div>
                             <div class="link"><a href="#">> Tinh trùng yếu</a></div>
                             <div class="link"><a href="#">> Xuất tinh ra máu</a></div>
