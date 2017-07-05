@@ -1,4 +1,4 @@
-@extends('layout.desktop')
+@extends('layout.desktop3')
 @section('title')
 	<title>{{ $setting->web_name }}</title>
 @endsection('title')
@@ -6,9 +6,11 @@
 	@include('seo.seo_home')
 @endsection('keyword')
 @section('css')
-	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/hover/css/hover.css') }}">
-	<link rel="stylesheet" href="{{ asset('public/css/desktop/desktop-about.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/css/desktop3/desktop-about.css') }}">
 @endsection('css')
+@section('menu')
+	@include('layouts.menuDesktop')
+@endsection('menu')
 @section('content')
 	<main class="about">
 		<div class="row1">
