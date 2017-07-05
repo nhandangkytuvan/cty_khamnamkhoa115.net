@@ -27,7 +27,7 @@ class TermController extends Controller{
                     return view('web.desktop.hoiphuc',['data'=>$data]); 
                     break;
                 default:
-                    return view('web.desktop.term',['data'=>$data]); 
+                    return view('web.desktop.term3',['data'=>$data]); 
                     break;
             }
         }else{

@@ -15,6 +15,29 @@ menu .table1 .cell1.hvr-rectangle-out:before{background-color: #474753;}
 menu .table1 .cell1  img{vertical-align: middle;}
 menu .table1 .cell1.active{background-color: #eeeeee;color: #000000;}
 
+/**/
+menu .hover{position: relative;}
+menu .items{height: 0px;width: 403px;position: absolute;top:100%;background-image: url('imghome/menu-1.png');background-repeat: no-repeat;overflow: hidden;z-index: 9;}
+menu .hover:hover .items{height: 600px;transition: height 0.5s;}
 
+menu .hover .item{padding:10px;height: 120px;color: #000000;border-bottom: 1px solid #c1c7d1;}
+menu .hover .item:hover{background-color: #20a585;color: #fff;}
 
+menu .hover .item table{border-spacing: 0;}
+menu .hover .item table:nth-child(1) td:nth-child(1){width: 42px;height: 42px;}
+menu .hover .item .term-parent{font-size: 18px;font-weight: 600;padding-left: 20px;}
 
+menu .hover .item .pos-absolute{height: 0px;overflow: hidden;top:0px;left: 0;}
+menu .hover .item:hover .pos-absolute{height: 42px;transition: height 0.3s;}
+
+menu .hover .item .term-children{text-align: left;margin-top: 8px;}
+menu .hover .item .term-children td{padding:5px 0px;}
+menu .hover .item .term-children td:nth-child(1){width: 180px;}
+menu .hover .item .term-children td a{font-weight: normal;color: #000;}
+menu .hover .item:hover .term-children td a{font-weight: normal;color: #fff;}
+menu .hover .item .term-children td a:hover{color: #FF0000;transition: color 0.3s;}
+
+menu .hover .item.active{background-color: #20a585;color: #fff;}
+menu .hover .item.active .term-children td a{color: #fff;}
+menu .hover .item.active .pos-absolute{height: 42px;}
+menu .hover .item.active .term-children td a:hover{color: #FF0000;transition: color 0.3s;}

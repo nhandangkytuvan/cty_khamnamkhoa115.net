@@ -81,9 +81,11 @@
     </header>
     @yield('menu')
     @yield('banner')
+    
     <main class="home">
         @yield('content')
     </main>
+    <div class="footer-limited" style="height: 0px;">.</div>
     <footer>
         <div class="row1">
             <div class="container">
@@ -149,7 +151,7 @@
                         </td>
                         <td class="cell2">
                             <div class="dis-table">
-                                <i class="bg4 table-cell"></i>
+                                <i class="bg5 table-cell"></i>
                                 <span class="table-cell">Vô sinh nam</span>
                             </div>
                             <div class="link"><a href="#">> Không có tinh trùng</a></div>
