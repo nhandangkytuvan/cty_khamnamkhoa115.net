@@ -205,26 +205,12 @@
 								</div>
 								<div class="flex2col2 pos-relative">
 									<ul>
+										@foreach($post_tuyentienliets as $post)
 										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-left">{{ $post->post_name }}</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Chi tiết</a>
 										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
+										@endforeach
 									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
@@ -271,26 +257,12 @@
 								</div>
 								<div class="flex2col2 pos-relative">
 									<ul>
+										@foreach($post_roiloans as $post)
 										<li class="clearfix">
-											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-left">{{ $post->post_name }}</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Chi tiết</a>
 										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">RỐI LOẠN CHỨC Năng sinh dục là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
+										@endforeach
 									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
@@ -337,26 +309,12 @@
 								</div>
 								<div class="flex2col2 pos-relative">
 									<ul>
+										@foreach($post_chinhhinhs as $post)
 										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-left">{{ $post->post_name }}</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Chi tiết</a>
 										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">Viêm tuyến tiền liệt là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
+										@endforeach
 									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
@@ -403,26 +361,12 @@
 								</div>
 								<div class="flex2col2 pos-relative">
 									<ul>
+										@foreach($post_viems as $post)
 										<li class="clearfix">
-											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-left">{{ $post->post_name }}</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Chi tiết</a>
 										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VIÊM NIỆU ĐẠO là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
+										@endforeach
 									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>
@@ -469,26 +413,12 @@
 								</div>
 								<div class="flex2col2 pos-relative">
 									<ul>
+										@foreach($post_vosinhs as $post)
 										<li class="clearfix">
-											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-left">{{ $post->post_name }}</a>
+											<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Chi tiết</a>
 										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
-										<li class="clearfix">
-											<a href="#" class="pull-left">VÔ SINH NAM là một trong những bệnh phổ biến..</a>
-											<a href="#" class="pull-right">Chi tiết</a>
-										</li>
+										@endforeach
 									</ul>
 									<div class="pos-absolute">
 										<a href="#">click để được tư vấn thêm</a>

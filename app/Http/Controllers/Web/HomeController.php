@@ -10,10 +10,12 @@ use BrowserDetect;
 class HomeController extends Controller{
 	public function show(Request $request){
 		if(BrowserDetect::isDesktop()){
-
-
-			
-			return view('web.desktop.home3');
+			$post_vosinhs = Post::whereIn('term_id',[23,24,25,26])->limit(5)->orderBy('id','desc')->get();
+			$post_tuyentienliets = Post::whereIn('term_id',[3,4,5,6])->limit(5)->orderBy('id','desc')->get();
+			$post_roiloans = Post::whereIn('term_id',[8,9,10,35])->limit(5)->orderBy('id','desc')->get();
+			$post_chinhhinhs = Post::whereIn('term_id',[13,14,15,16])->limit(5)->orderBy('id','desc')->get();
+			$post_viems = Post::whereIn('term_id',[18,19,20,21])->limit(6)->orderBy('id','desc')->get();
+			return view('web.desktop.home3',['post_vosinhs'=>$post_vosinhs,'post_tuyentienliets'=>$post_tuyentienliets,'post_roiloans'=>$post_roiloans,'post_chinhhinhs'=>$post_chinhhinhs,'post_viems'=>$post_viems]);
 		}else{
 			return view('web.mobile.home');
 		}
