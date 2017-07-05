@@ -18,12 +18,12 @@
 						</table>
 						<table class="width-100 term-children">
 							<tr>
-								<td><a href="#">> Liệt dương</a></td>
-								<td><a href="#">> Xuất tinh sớm</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(8) }}">> Liệt dương</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(10) }}">> Xuất tinh sớm</a></td>
 							</tr>
 							<tr>
-								<td><a href="#">> Yếu sinh lý</a></td>
-								<td><a href="#">> Rối loạn cương dương</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(35) }}">> Yếu sinh lý</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(9) }}">> Rối loạn cương dương</a></td>
 							</tr>
 						</table>
 					</div>
@@ -41,12 +41,12 @@
 						</table>
 						<table class="width-100 term-children">
 							<tr>
-								<td><a href="#">> Dài bao quy đầu</a></td>
-								<td><a href="#">> Thủ thuật hẹp bao quy đầu</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(13) }}">> Dài bao quy đầu</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(15) }}">> Thủ thuật hẹp bao quy đầu</a></td>
 							</tr>
 							<tr>
-								<td><a href="#">> Kéo dài dương vật</a></td>
-								<td><a href="#">> Rối loạn cương dương</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(14) }}">> Kéo dài dương vật</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(16) }}">> Tăng kích thước dương vật</a></td>
 							</tr>
 						</table>
 					</div>
@@ -64,12 +64,12 @@
 						</table>
 						<table class="width-100 term-children">
 							<tr>
-								<td><a href="#">> Viêm tuyến tiền liệt</a></td>
-								<td><a href="#">> U nang tuyến tiền liệt</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(3) }}">> Viêm tuyến tiền liệt</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(4) }}">> U nang tuyến tiền liệt</a></td>
 							</tr>
 							<tr>
-								<td><a href="#">> Phì đại tuyến tiền liệt</a></td>
-								<td><a href="#">> Tăng sinh tuyến tiền liệt</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(6) }}">> Phì đại tuyến tiền liệt</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(5) }}">> Tăng sinh tuyến tiền liệt</a></td>
 							</tr>
 						</table>
 					</div>
@@ -87,12 +87,12 @@
 						</table>
 						<table class="width-100 term-children">
 							<tr>
-								<td><a href="#">> Viêm quy đầu</a></td>
-								<td><a href="#">> Viêm tinh hoàn</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(18) }}">> Viêm quy đầu</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(21) }}">> Viêm tinh hoàn</a></td>
 							</tr>
 							<tr>
-								<td><a href="#">> Viêm niệu đạo</a></td>
-								<td><a href="#">> Viêm bàng quang</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(20) }}">> Viêm niệu đạo</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(19) }}">> Viêm bàng quang</a></td>
 							</tr>
 						</table>
 					</div>
@@ -110,27 +110,27 @@
 						</table>
 						<table class="width-100 term-children">
 							<tr>
-								<td><a href="#">> Tinh trùng ít</a></td>
-								<td><a href="#">> Tinh trùng yếu</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(23) }}">> Tinh trùng ít</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(26) }}">> Tinh trùng yếu</a></td>
 							</tr>
 							<tr>
-								<td><a href="#">> Không có tinh</a></td>
-								<td><a href="#">> Xuất tinh ra máu</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(25) }}">> Không có tinh</a></td>
+								<td><a href="{{ MyAPI::getUrlTermID(24) }}">> Xuất tinh ra máu</a></td>
 							</tr>
 						</table>
 					</div>
 				</div>	
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="#">
+			<a class="table-cell cell1 hvr-rectangle-out" href="{{ url('ve-chung-toi') }}">
 				Giới thiệu phòng khám
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="#">
+			<a class="table-cell cell1 hvr-rectangle-out" href="{{ MyAPI::getUrlTermID(32) }}">
 				Kỹ thuật điều trị
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="#">
+			<a class="table-cell cell1 hvr-rectangle-out" href="{{ MyAPI::getUrlTermID(34) }}">
 				Bệnh án hồi phục
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="#">
+			<a class="table-cell cell1 hvr-rectangle-out" href="{{ url('dia-chi-phong-kham') }}">
 				Địa chỉ phòng khám
 			</a>
 			<a class="table-cell cell1 hvr-rectangle-out" href="#">

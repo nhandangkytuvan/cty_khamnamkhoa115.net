@@ -24,61 +24,23 @@
 		<div class="column-left">
 			<div class="crub">
 				<a href="#"><img src="{{ asset('public/css/desktop3/imgterm/term-1.png') }}" alt=""></a>
-				<a href="#">Trang chủ</a>
+				<a href="{{ url('/') }}">Trang chủ</a>
 				<span> > </span>
-				<a href="#">Vô sinh</a>
+				<a href="#">{{ $data['term']->term_name }}</a>
 			</div>
 			<div class="lists">
 				<div class="term-name">
-					<h1>Vô sinh</h1>
+					<h1>{{ $data['term']->term_name }}</h1>
 				</div>
 				<div class="posts">
+					@php $posts = $data['term']->post()->paginate(15); @endphp
+					@foreach($posts as $post)
 					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
+						<h2 class="pull-left"><a href="{{ MyAPI::getUrlPostObj($post) }}">{{ $post->post_name }}</a></h2>
+						<a href="{{ MyAPI::getUrlPostObj($post) }}" class="pull-right">Click để đọc</a>
 					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
-					<div class="post clearfix">
-						<h2 class="pull-left"><a href="#">Bệnh vô sinh không trừ một ai</a></h2>
-						<a href="#" class="pull-right">Click để đọc</a>
-					</div>
+					@endforeach
 				</div>
-				@php $posts = $data['term']->post()->paginate(7); @endphp
 				<div class="my_pagination">
 					{{ $posts->links() }}
 				</div>

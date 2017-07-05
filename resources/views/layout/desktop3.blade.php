@@ -94,19 +94,19 @@
                         <td class="cell1">
                             <div class="text-uppercase bor1">Lối tắt</div>
                             <div class="link">
-                                <a href="#"><span class="table-cell text-center"><i class="bg1"></i></span> <span class="table-cell">Trang chủ</span></a>
+                                <a href="{{ url('/') }}"><span class="table-cell text-center"><i class="bg1"></i></span> <span class="table-cell">Trang chủ</span></a>
                             </div>
                             <div class="link">
-                                <a href="#"><span class="table-cell text-center"><i class="bg2"></i></span> <span class="table-cell">Giới thiệu phòng khám</span></a>
+                                <a href="{{ url('ve-chung-toi') }}"><span class="table-cell text-center"><i class="bg2"></i></span> <span class="table-cell">Giới thiệu phòng khám</span></a>
                             </div>
                             <div class="link">
-                                <a href="#"><span class="table-cell text-center"><i class="bg3"></i></span> <span class="table-cell">Kỹ thuật điều trị</span></a>
+                                <a href="{{ MyAPI::getUrlTermID(32) }}"><span class="table-cell text-center"><i class="bg3"></i></span> <span class="table-cell">Kỹ thuật điều trị</span></a>
                             </div>
                             <div class="link">
-                                <a href="#"><span class="table-cell text-center"><i class="bg4"></i></span> <span class="table-cell">Bệnh án hồi phục</span></a>
+                                <a href="{{ MyAPI::getUrlTermID(34) }}"><span class="table-cell text-center"><i class="bg4"></i></span> <span class="table-cell">Bệnh án hồi phục</span></a>
                             </div>
                             <div class="link">
-                                <a href="#"><span class="table-cell text-center"><i class="bg5"></i></span> <span class="table-cell">Lộ trình tới phòng khám</span></a>
+                                <a href="{{ url('dia-chi-phong-kham') }}"><span class="table-cell text-center"><i class="bg5"></i></span> <span class="table-cell">Lộ trình tới phòng khám</span></a>
                             </div>
                         </td>
                         <td class="cell2">
@@ -114,50 +114,50 @@
                                 <i class="bg1 table-cell"></i>
                                 <span class="table-cell">Rối loạn chức<br>năng sinh dục</span>
                             </div>
-                            <div class="link"><a href="#">> Liệt dương</a></div>
-                            <div class="link"><a href="#">> Yếu sinh lý</a></div>
-                            <div class="link"><a href="#">> Xuất tinh sớm</a></div>
-                            <div class="link"><a href="#">> Rối loạn cương dương</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(8) }}">> Liệt dương</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(35) }}">> Yếu sinh lý</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(10) }}">> Xuất tinh sớm</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(9) }}">> Rối loạn cương dương</a></div>
                         </td>
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg2 table-cell"></i>
                                 <span class="table-cell">Chỉnh hình cơ<br>quan sinh dục</span>
                             </div>
-                            <div class="link"><a href="#">> Dài bao quy đầu</a></div>
-                            <div class="link"><a href="#">> Kéo dài dương vật</a></div>
-                            <div class="link"><a href="#">> Thủ thuật hẹp bao quy đầu</a></div>
-                            <div class="link"><a href="#">> Tăng kích thước dương vật</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(13) }}">> Dài bao quy đầu</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(14) }}">> Kéo dài dương vật</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(15) }}">> Thủ thuật hẹp bao quy đầu</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(16) }}">> Tăng kích thước dương vật</a></div>
                         </td>
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg3 table-cell"></i>
                                 <span class="table-cell">Bệnh<br>tuyến tiền liệt</span>
                             </div>
-                            <div class="link"><a href="#">> Viêm tuyến tiền liệt</a></div>
-                            <div class="link"><a href="#">> Phì đại tuyến tiền liệt</a></div>
-                            <div class="link"><a href="#">> U nang tuyến tiền liệt</a></div>
-                            <div class="link"><a href="#">> Tăng sinh tuyến tiền liệt</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(3) }}">> Viêm tuyến tiền liệt</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(6) }}">> Phì đại tuyến tiền liệt</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(4) }}">> U nang tuyến tiền liệt</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(5) }}">> Tăng sinh tuyến tiền liệt</a></div>
                         </td>
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg4 table-cell"></i>
                                 <span class="table-cell">Viêm nhiễm hệ<br>thống sinh dục</span>
                             </div>
-                            <div class="link"><a href="#">> Viêm quy đầu</a></div>
-                            <div class="link"><a href="#">> Viêm niệu đạo</a></div>
-                            <div class="link"><a href="#">> Viêm tinh hoàn</a></div>
-                            <div class="link"><a href="#">> Viêm bàng quang</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(18) }}">> Viêm quy đầu</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(20) }}">> Viêm niệu đạo</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(21) }}">> Viêm tinh hoàn</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(19) }}">> Viêm bàng quang</a></div>
                         </td>
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg5 table-cell"></i>
                                 <span class="table-cell">Vô sinh nam</span>
                             </div>
-                            <div class="link"><a href="#">> Không có tinh trùng</a></div>
-                            <div class="link"><a href="#">> Tình trùng ít</a></div>
-                            <div class="link"><a href="#">> Tinh trùng yếu</a></div>
-                            <div class="link"><a href="#">> Xuất tinh ra máu</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(25) }}">> Không có tinh trùng</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(23) }}">> Tình trùng ít</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(26) }}">> Tinh trùng yếu</a></div>
+                            <div class="link"><a href="{{ MyAPI::getUrlTermID(24) }}">> Xuất tinh ra máu</a></div>
                         </td>
                     </tr>
                 </table>

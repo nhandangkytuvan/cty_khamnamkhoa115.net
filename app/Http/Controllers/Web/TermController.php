@@ -21,10 +21,10 @@ class TermController extends Controller{
                     return view('web.desktop.thietbi',['data'=>$data]); 
                     break;
                 case 32:
-                    return view('web.desktop.kythuat',['data'=>$data]); 
+                    return view('web.desktop.term3',['data'=>$data]); 
                     break;
                 case 34:
-                    return view('web.desktop.hoiphuc',['data'=>$data]); 
+                    return view('web.desktop.term3',['data'=>$data]); 
                     break;
                 default:
                     return view('web.desktop.term3',['data'=>$data]); 

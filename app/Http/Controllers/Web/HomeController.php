@@ -10,6 +10,9 @@ use BrowserDetect;
 class HomeController extends Controller{
 	public function show(Request $request){
 		if(BrowserDetect::isDesktop()){
+
+
+			
 			return view('web.desktop.home3');
 		}else{
 			return view('web.mobile.home');
