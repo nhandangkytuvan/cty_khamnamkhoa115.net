@@ -133,7 +133,7 @@
 			<a class="table-cell cell1 hvr-rectangle-out" href="{{ url('dia-chi-phong-kham') }}">
 				Địa chỉ phòng khám
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="#">
+			<a class="table-cell cell1 hvr-rectangle-out" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 				Đặt hẹn trực tuyến
 			</a>
 		</div>

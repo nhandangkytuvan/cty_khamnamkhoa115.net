@@ -32,70 +32,70 @@
 			</div>
 			<div class="bg">
 				<div class="width-100 table2 dis-table">
-					<a href="#" class="table-cell pos-relative">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell pos-relative">
 						Dài bao<br>quy đầu
 						<img src="{{ asset('public/css/desktop3/imghome/home-6.png') }}" alt="" class="pos-absolute">
 					</a>
-					<a href="#" class="table-cell pos-relative">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell pos-relative">
 						Thời gian<br>quan hệ ngắn
 						<img src="{{ asset('public/css/desktop3/imghome/home-6.png') }}" alt="" class="pos-absolute">
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tiểu nhiều<br>tiểu rắt
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Cửa âm đạo<br>chảy dịch trắng 
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Mụn nhỏ màu<br>đỏ ở quy đầu 
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Viêm quy đầu<br>có triệu chứng gì 
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tiểu buốt<br>tiểu không hết
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Xuất tinh có<br>cảm giác đau
 					</a>
 				</div>
 				<div class="width-100 table3 dis-table">
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Xuất tinh quá nhanh
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Quy đầu sưng đỏ
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Thời gian cương cứng ngắn
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tinh hoàn sưng to
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Đáy chậu đau đớn
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tiểu xong rỉ giọt trắng 
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Triệu chứng viêm tuyến tiền liệt
 					</a>
 				</div>
 				<div class="width-100 table4 dis-table">
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Mẹo tăng cường sức khỏe sinh lý	
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tinh hoàn có mụn đỏ
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Cơ quan sinh dục ngứa rát, chảy mủ, có mùi lạ
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Tinh hoàn sưng to
 					</a>
-					<a href="#" class="table-cell">
+					<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="table-cell">
 						Đáy chậu đau đớn
 					</a>
 				</div>
@@ -169,7 +169,7 @@
 				</div>
 			</div>
 			<div class="img">
-				<a href="#" class="hvr-float-shadow"><img src="{{ asset('public/css/desktop3/imghome/home-11.png') }}" alt="" class="center-block img-responsive"></a>
+				<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="hvr-float-shadow"><img src="{{ asset('public/css/desktop3/imghome/home-11.png') }}" alt="" class="center-block img-responsive"></a>
 			</div>
 		</div>
 	</div>
@@ -182,7 +182,7 @@
 			<div class="body">
 				<div class="flex flex1 justify-content-between">
 					<div class="flex1col1">
-						Khám bệnh tìm đến chuyên gia là suy nghĩ phổ biến của người dân, khám nam khoa càng cần tìm những chuyên gia kỳ cựu với kinh nghiệm lâm sàng phong phú, thông thạo các kỹ thuật y học. Phòng khám Nam Khang Hà Nội thực hiện kiểm tra đầu vào nghiêm ngặt trình độ của đội ngũ y bác sĩ, tập hợp được các chuyên gia có kinh nghiệm lâu năm trong ngành nam khoa trên địa bàn cả trong và ngoài nước, duy trì sử dụng rộng rãi dịch vụ khám chữa chất lượng cao đối với các bệnh nhân nam giới. Từ khi thành lập tới nay, Nam Khang đã chữa khỏi cho hàng vạn bệnh nhân mắc các bệnh nam khoa, và nhận được sự đánh giá cao từ đông đảo quần chúng nhân dân... <a href="#">[Chi tiết]</a>
+						Khám bệnh tìm đến chuyên gia là suy nghĩ phổ biến của người dân, khám nam khoa càng cần tìm những chuyên gia kỳ cựu với kinh nghiệm lâm sàng phong phú, thông thạo các kỹ thuật y học. Phòng khám Nam Khang Hà Nội thực hiện kiểm tra đầu vào nghiêm ngặt trình độ của đội ngũ y bác sĩ, tập hợp được các chuyên gia có kinh nghiệm lâu năm trong ngành nam khoa trên địa bàn cả trong và ngoài nước, duy trì sử dụng rộng rãi dịch vụ khám chữa chất lượng cao đối với các bệnh nhân nam giới. Từ khi thành lập tới nay, Nam Khang đã chữa khỏi cho hàng vạn bệnh nhân mắc các bệnh nam khoa, và nhận được sự đánh giá cao từ đông đảo quần chúng nhân dân... <a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">[Chi tiết]</a>
 
 					</div>
 					<div class="flex1col2">
@@ -213,12 +213,12 @@
 										@endforeach
 									</ul>
 									<div class="pos-absolute">
-										<a href="#">click để được tư vấn thêm</a>
+										<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">click để được tư vấn thêm</a>
 									</div>
 								</div>
 							</div>
 							<div class="flex flex3 justify-content-between">
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -228,7 +228,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -238,7 +238,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -265,12 +265,12 @@
 										@endforeach
 									</ul>
 									<div class="pos-absolute">
-										<a href="#">click để được tư vấn thêm</a>
+										<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">click để được tư vấn thêm</a>
 									</div>
 								</div>
 							</div>
 							<div class="flex flex3 justify-content-between">
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -280,7 +280,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -290,7 +290,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -317,12 +317,12 @@
 										@endforeach
 									</ul>
 									<div class="pos-absolute">
-										<a href="#">click để được tư vấn thêm</a>
+										<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">click để được tư vấn thêm</a>
 									</div>
 								</div>
 							</div>
 							<div class="flex flex3 justify-content-between">
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -332,7 +332,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -342,7 +342,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -369,12 +369,12 @@
 										@endforeach
 									</ul>
 									<div class="pos-absolute">
-										<a href="#">click để được tư vấn thêm</a>
+										<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">click để được tư vấn thêm</a>
 									</div>
 								</div>
 							</div>
 							<div class="flex flex3 justify-content-between">
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -384,7 +384,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -394,7 +394,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -421,12 +421,12 @@
 										@endforeach
 									</ul>
 									<div class="pos-absolute">
-										<a href="#">click để được tư vấn thêm</a>
+										<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">click để được tư vấn thêm</a>
 									</div>
 								</div>
 							</div>
 							<div class="flex flex3 justify-content-between">
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -436,7 +436,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -446,7 +446,7 @@
 										</tr>
 									</table>
 								</a>
-								<a class="flex3col1" href="#">
+								<a class="flex3col1" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 									<table>
 										<tr>
 											<td><img src="{{ asset('public/css/desktop3/imghome/home-16.png') }}" alt=""></td>
@@ -463,27 +463,27 @@
 				<div class="flex1col2">
 					<div class="btnGroup">
 						<div class="btn">
-							<a href="#" class="dis-table active">
+							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table active">
 								<span class="table-cell text-center">BỆNH TUYẾN TIỀN LIỆT</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="#" class="dis-table">
+							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
 								<span class="table-cell text-center">RỐI LOẠN CHỨC<br>NĂNG SINH DỤC</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="#" class="dis-table">
+							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
 								<span class="table-cell text-center">CHỈNH HÌNH CƠ<br>QUAN SINH DỤC</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="#" class="dis-table">
+							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
 								<span class="table-cell text-center">VIÊM NIỆU ĐẠO</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="#" class="dis-table">
+							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
 								<span class="table-cell text-center">VÔ SINH NAM</span>
 							</a>
 						</div>
@@ -555,7 +555,7 @@
 							<div class="img">
 								<img src="{{ asset('public/css/desktop3/imghome/home-20.png') }}" alt="" class="center-block">
 							</div>
-							<a class="link" href="#">
+							<a class="link" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 								<table>
 									<tr>
 										<td><img src="{{ asset('public/css/desktop3/imghome/home-21.png') }}" alt=""></td>
@@ -641,7 +641,7 @@
 							<div class="img">
 								<img src="{{ asset('public/css/desktop3/imghome/hp-9.png') }}" alt="" class="center-block">
 							</div>
-							<a class="link" href="#">
+							<a class="link" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 								<table>
 									<tr>
 										<td><img src="{{ asset('public/css/desktop3/imghome/home-21.png') }}" alt=""></td>
@@ -725,7 +725,7 @@
 							<div class="img">
 								<img src="{{ asset('public/css/desktop3/imghome/hp-1.png') }}" alt="" class="center-block">
 							</div>
-							<a class="link" href="#">
+							<a class="link" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 								<table>
 									<tr>
 										<td><img src="{{ asset('public/css/desktop3/imghome/home-21.png') }}" alt=""></td>
@@ -809,7 +809,7 @@
 							<div class="img">
 								<img src="{{ asset('public/css/desktop3/imghome/hp-2.png') }}" alt="" class="center-block">
 							</div>
-							<a class="link" href="#">
+							<a class="link" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 								<table>
 									<tr>
 										<td><img src="{{ asset('public/css/desktop3/imghome/home-21.png') }}" alt=""></td>
@@ -893,7 +893,7 @@
 							<div class="img">
 								<img src="{{ asset('public/css/desktop3/imghome/hp-8.png') }}" alt="" class="center-block">
 							</div>
-							<a class="link" href="#">
+							<a class="link" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 								<table>
 									<tr>
 										<td><img src="{{ asset('public/css/desktop3/imghome/home-21.png') }}" alt=""></td>
@@ -977,7 +977,7 @@
 	</div>
 	<div class="row6" data-scroll-reveal="enter bottom">
 		<div class="container">
-			<a href="#" class="dis-block hvr-float-shadow">
+			<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block hvr-float-shadow">
 				<img src="{{ asset('public/css/desktop3/imghome/home-29.png') }}" alt="" class="center-block">
 			</a>
 			<div id="index_hj">
@@ -1043,24 +1043,24 @@
 				<span class="color2 ">Your health care partner is with you</span>
 			</div>
 			<div class="phone">
-				<a href="#">
+				<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<img src="{{ asset('public/css/desktop3/imghome/home-33.png') }}" alt="" class="center-block">
 				</a>
 			</div>
 			<div class="flex flex1 justify-content-between">
-				<a class="flex1col1 bg1 hvr-glow" href="#">
+				<a class="flex1col1 bg1 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đặt hẹn bác sĩ</p>
 					<p class="text-center">Đặt hẹn trực tuyến</p>
 				</a>
-				<a class="flex1col1 bg2 hvr-glow" href="#">
+				<a class="flex1col1 bg2 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Tư vấn trực tuyến</p>
 					<p class="text-center">Phân tích tình trạng<br>bệnh trực tuyến</p>
 				</a>
-				<a class="flex1col1 bg3 hvr-glow" href="#">
+				<a class="flex1col1 bg3 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đường dây nóng sức khỏe</p>
 					<p class="text-center">1800 6181</p>
 				</a>
-				<a class="flex1col1 bg4 hvr-glow" href="#">
+				<a class="flex1col1 bg4 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đường đến phòng khám</p>
 					<p class="text-center">Có thể bạn chỉ cần<br>1 tấm vé xe là có ngay<br>được sức khỏe</p>
 				</a>
@@ -1069,7 +1069,7 @@
 	</div>
 	<div class="row7" data-scroll-reveal="enter bottom">
 		<div class="container">
-			<a href="#" class="hvr-rectangle-out">Liên hệ chúng tôi</a>
+			<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="hvr-rectangle-out">Liên hệ chúng tôi</a>
 		</div>
 	</div>
 @endsection('content')
