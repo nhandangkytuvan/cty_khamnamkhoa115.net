@@ -20,7 +20,7 @@ class PostController extends Controller{
         // ------------
         $data['post'] = $post;
         if(BrowserDetect::isDesktop()){
-        	return view('web.desktop.post',['data'=>$data]); 
+        	return view('web.desktop.post3',['data'=>$data]); 
         }else{
         	return view('web.mobile.post',['data'=>$data]); 
         }
