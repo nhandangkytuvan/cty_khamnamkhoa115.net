@@ -19,11 +19,11 @@
 		<div class="container">
 			<div class="width-100 table1 dis-table">
 				<a class="table-cell">Bệnh lý điển hình</a>
-				<a href="#" class="table-cell">Rối loạn chức<br>năng sinh dục</a>
-				<a href="#" class="table-cell">Chỉnh hình cơ<br>quan sinh dục</a>
-				<a href="#" class="table-cell">Bệnh tuyến<br>tiền liệt</a>
-				<a href="#" class="table-cell">Viêm nhiễm hệ<br>thống sinh dục</a>
-				<a href="#" class="table-cell">Vô sinh nam</a>
+				<a href="{{ MyAPI::getUrlTermID(7) }}" class="table-cell">Rối loạn chức<br>năng sinh dục</a>
+				<a href="{{ MyAPI::getUrlTermID(12) }}" class="table-cell">Chỉnh hình cơ<br>quan sinh dục</a>
+				<a href="{{ MyAPI::getUrlTermID(2) }}" class="table-cell">Bệnh tuyến<br>tiền liệt</a>
+				<a href="{{ MyAPI::getUrlTermID(17) }}" class="table-cell">Viêm nhiễm hệ<br>thống sinh dục</a>
+				<a href="{{ MyAPI::getUrlTermID(22) }}" class="table-cell">Vô sinh nam</a>
 				<a href="#" class="table-cell">Các bệnh khác</a>
 				<span class="table-cell">
 					<input type="text" placeholder="Tìm kiếm tại đây">
@@ -463,27 +463,27 @@
 				<div class="flex1col2">
 					<div class="btnGroup">
 						<div class="btn">
-							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table active">
+							<a href="{{ MyAPI::getUrlTermID(2) }}" class="dis-table active">
 								<span class="table-cell text-center">BỆNH TUYẾN TIỀN LIỆT</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
+							<a href="{{ MyAPI::getUrlTermID(7) }}" class="dis-table">
 								<span class="table-cell text-center">RỐI LOẠN CHỨC<br>NĂNG SINH DỤC</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
+							<a href="{{ MyAPI::getUrlTermID(12) }}" class="dis-table">
 								<span class="table-cell text-center">CHỈNH HÌNH CƠ<br>QUAN SINH DỤC</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
+							<a href="{{ MyAPI::getUrlTermID(17) }}" class="dis-table">
 								<span class="table-cell text-center">VIÊM NIỆU ĐẠO</span>
 							</a>
 						</div>
 						<div class="btn">
-							<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-table">
+							<a href="{{ MyAPI::getUrlTermID(22) }}" class="dis-table">
 								<span class="table-cell text-center">VÔ SINH NAM</span>
 							</a>
 						</div>

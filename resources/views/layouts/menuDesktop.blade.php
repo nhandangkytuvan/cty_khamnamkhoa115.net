@@ -12,7 +12,7 @@
 									<img src="{{ asset('public/css/desktop3/imghome/hover1.png') }}" alt="" class="iconbghover1 pos-absolute"></i>
 								</td>
 								<td>
-									<div class="term-parent">RỐI LOẠN CHỨC NĂNG SINH DỤC</div>
+									<div class="term-parent"><a href="{{ MyAPI::getUrlTermID(7) }}">RỐI LOẠN CHỨC NĂNG SINH DỤC</a></div>
 								</td>
 							</tr>
 						</table>
@@ -35,7 +35,7 @@
 									<img src="{{ asset('public/css/desktop3/imghome/hover2.png') }}" alt="" class="iconbghover1 pos-absolute"></i>
 								</td>
 								<td>
-									<div class="term-parent">CHỈNH HÌNH CƠ QUAN SINH DỤC</div>
+									<div class="term-parent"><a href="{{ MyAPI::getUrlTermID(12) }}">CHỈNH HÌNH CƠ QUAN SINH DỤC</a></div>
 								</td>
 							</tr>
 						</table>
@@ -58,7 +58,7 @@
 									<img src="{{ asset('public/css/desktop3/imghome/hover3.png') }}" alt="" class="iconbghover1 pos-absolute"></i>
 								</td>
 								<td>
-									<div class="term-parent">BỆNH TUYẾN TIỀN LIỆT</div>
+									<div class="term-parent"><a href="{{ MyAPI::getUrlTermID(2) }}">BỆNH TUYẾN TIỀN LIỆT</a></div>
 								</td>
 							</tr>
 						</table>
@@ -81,7 +81,7 @@
 									<img src="{{ asset('public/css/desktop3/imghome/hover4.png') }}" alt="" class="iconbghover1 pos-absolute"></i>
 								</td>
 								<td>
-									<div class="term-parent">VIÊM NHIỄM HỆ THỐNG SINH DỤC</div>
+									<div class="term-parent"><a href="{{ MyAPI::getUrlTermID(17) }}">VIÊM NHIỄM HỆ THỐNG SINH DỤC</a></div>
 								</td>
 							</tr>
 						</table>
@@ -104,7 +104,7 @@
 									<img src="{{ asset('public/css/desktop3/imghome/hover5.png') }}" alt="" class="iconbghover1 pos-absolute"></i>
 								</td>
 								<td>
-									<div class="term-parent">VÔ SINH NAM</div>
+									<div class="term-parent"><a href="{{ MyAPI::getUrlTermID(22) }}">VÔ SINH NAM</a></div>
 								</td>
 							</tr>
 						</table>

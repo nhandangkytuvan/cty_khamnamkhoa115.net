@@ -112,7 +112,7 @@
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg1 table-cell"></i>
-                                <span class="table-cell">Rối loạn chức<br>năng sinh dục</span>
+                                <span class="table-cell"><a href="{{ MyAPI::getUrlTermID(7) }}">Rối loạn chức<br>năng sinh dục</a></span>
                             </div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(8) }}">> Liệt dương</a></div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(35) }}">> Yếu sinh lý</a></div>
@@ -122,7 +122,7 @@
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg2 table-cell"></i>
-                                <span class="table-cell">Chỉnh hình cơ<br>quan sinh dục</span>
+                                <span class="table-cell"><a href="{{ MyAPI::getUrlTermID(12) }}">Chỉnh hình cơ<br>quan sinh dục</a></span>
                             </div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(13) }}">> Dài bao quy đầu</a></div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(14) }}">> Kéo dài dương vật</a></div>
@@ -132,7 +132,7 @@
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg3 table-cell"></i>
-                                <span class="table-cell">Bệnh<br>tuyến tiền liệt</span>
+                                <span class="table-cell"><a href="{{ MyAPI::getUrlTermID(2) }}">Bệnh<br>tuyến tiền liệt</a></span>
                             </div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(3) }}">> Viêm tuyến tiền liệt</a></div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(6) }}">> Phì đại tuyến tiền liệt</a></div>
@@ -142,7 +142,7 @@
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg4 table-cell"></i>
-                                <span class="table-cell">Viêm nhiễm hệ<br>thống sinh dục</span>
+                                <span class="table-cell"><a href="{{ MyAPI::getUrlTermID(17) }}">Viêm nhiễm hệ<br>thống sinh dục</a></span>
                             </div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(18) }}">> Viêm quy đầu</a></div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(20) }}">> Viêm niệu đạo</a></div>
@@ -152,7 +152,7 @@
                         <td class="cell2">
                             <div class="dis-table">
                                 <i class="bg5 table-cell"></i>
-                                <span class="table-cell">Vô sinh nam</span>
+                                <span class="table-cell"><a href="{{ MyAPI::getUrlTermID(22) }}">Vô sinh nam</a></span>
                             </div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(25) }}">> Không có tinh trùng</a></div>
                             <div class="link"><a href="{{ MyAPI::getUrlTermID(23) }}">> Tình trùng ít</a></div>

@@ -1,0 +1,56 @@
+.termParent .lists .titleNewPost{border-left: 4px solid #333333;padding-left: 20px;text-transform: uppercase;font-weight: 800;font-size: 15px;}
+.termParent .lists .newPosts .flexNewPost{width: 230px;}
+.termParent .lists .newPosts .flexNewPost img{height: 154px; width: 230px;}
+.termParent .lists .newPosts .flexNewPost div{border: 1px #E5E5E5 solid; box-shadow: 2px 2px 8px rgba(0,0,0,.2);}
+.termParent .lists .newPosts .flexNewPost h2{margin-top: 10px;font-size: 14px;font-weight: normal;padding:0px 15px;}
+.termParent .lists .newPosts .flexNewPost h2 a:hover{color: #FF0000;transition: all 0.3s;}
+.termParent .lists .newPosts{margin:20px auto;}
+.termParent .lists .marTop{margin-top: 27px;}
+.termParent .lists .tabsTerm .flex{box-shadow: 0 0 8px rgba(0,0,0,.2);border: 1px #e5e5e5 solid;border-right: 0;margin-top: 20px;width: auto;}
+.termParent .lists .tabsTerm .flexNameTab{border-right: 1px solid #e5e5e5;height: 35px;line-height: 35px;padding:0px 20px;}
+.termParent .lists .tabsTerm .flexNameTab.active{background-color: #00976e;color: #fff;}
+.termParent .lists .tabsContentTerm{padding-bottom: 20px;height: 628px;overflow-y: hidden;}
+.termParent .lists .tabsContentTerm >div{display: none;}
+.termParent .lists .tabsContentTerm >div.active{display: block;}
+.termParent .lists .tabsContentTerm ul{list-style: none;}
+.termParent .lists .tabsContentTerm ul li{padding:22px 0px;border-bottom: 1px dashed #e5e5e5;}
+.termParent .lists .tabsContentTerm ul li a:hover{color: #FF0000;transition: all 0.3s;}
+.term .sixrec{margin-top: 15px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
