@@ -26,6 +26,11 @@
 				<a href="{{ url('/') }}"><img src="{{ asset('public/css/desktop3/imgterm/term-1.png') }}" alt=""></a>
 				<a href="{{ url('/') }}">Trang chủ</a>
 				<span> > </span>
+				@php $term_parent = $data['term']->parent;@endphp
+				@if($term_parent)
+				<a href="{{ MyAPI::getUrlTermObj($term_parent) }}">{{ $term_parent->term_name }}</a>
+				<span> > </span>
+				@endif
 				<a href="#">{{ $data['term']->term_name }}</a>
 			</div>
 			<div class="lists">
