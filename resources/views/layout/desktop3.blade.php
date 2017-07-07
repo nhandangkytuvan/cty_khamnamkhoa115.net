@@ -189,7 +189,7 @@
     </footer>
     @include('layouts.popupDesktop1')
     <div id="myloadding"><div id="mytext">Xin chờ chút...</div></div>
-    <!-- <script language="javascript" src="http://swt.phongkham193.com/JS/LsJS.aspx?siteid=MFI63108226&float=1&lng=en"></script> -->
+    <script language="javascript" src="http://swt.phongkham193.com/JS/LsJS.aspx?siteid=MFI63108226&float=1&lng=en"></script>
     <script type="text/javascript" src="http://bd.sznj91.cn/public17527/js/scrollReveal.js"></script>
     <script type="text/javascript">
         window.scrollReveal = new scrollReveal({ reset:false,move:'10px',over: '.5s'});
