@@ -75,4 +75,11 @@ class ChuyenDeController extends Controller{
 			return view('web.chuyende.mobile.tonghop');
 		}
 	}
+	public function tinhhoan(Request $request){
+		if(BrowserDetect::isDesktop()){
+			return view('web.chuyende.mobile.tinhhoan');
+		}else{
+			return view('web.chuyende.mobile.tinhhoan');
+		}
+	}
 }
