@@ -3,7 +3,7 @@
     <title>{{ $data['term']->term_name }} - {{ $setting->web_name }}</title>
 @endsection('title')
 @section('keyword')
-	@include('seo.seo_term',['data'=>$data])
+	@include('seo.seo_term')
 @endsection('keyword')
 @section('css')
     <link rel="stylesheet" href="{{ asset('public/css/mobile/mobile-pagination.css') }}">
@@ -155,7 +155,7 @@
 		</div>
 		@endif
 		<div class="posts">
-			@foreach($posts as $post)
+			@foreach($data['post_terms'] as $post)
 			<div class="post">
 				<h4><a href="{{ MyAPI::getUrlPostObj($post) }}"><i class="fa fa-user-md"></i> {{ $post->post_name }}</a></h4>
 				<p class="text-justify">
@@ -165,7 +165,7 @@
 			@endforeach
 		</div>
 		<div class="my_pagination">
-			{!! $posts->links() !!}
+			{!! $data['post_terms']->links() !!}
 		</div>
 		<div class="uudiem-thuonghieu">
 			<div class="flex2 dis-table table2">

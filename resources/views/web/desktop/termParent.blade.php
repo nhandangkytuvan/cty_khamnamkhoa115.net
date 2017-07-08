@@ -3,7 +3,7 @@
 	<title>{{ $data['term']->term_name }} - {{ $setting->web_name }}</title>
 @endsection('title')
 @section('keyword')
-	@include('seo.seo_term',['data'=>$data])
+	@include('seo.seo_term')
 @endsection('keyword')
 @section('css')
 <link rel="stylesheet" href="{{ asset('public/css/desktop3/desktop-pagination.css') }}">
@@ -35,7 +35,7 @@
 				</div>
 				<div class="newPosts">
 					<div class="flex justify-content-around">
-					@foreach($postNews as $post)
+					@foreach($data['post_recent_terms'] as $post)
 						<div class="flexNewPost">
 							<div>
 								<a href="{{ MyAPI::getUrlPostObj($post) }}" class="hvr-round-corners">
@@ -53,7 +53,7 @@
 				<div class="tabsTerm">
 					<div class="dis-inline-block">
 						<div class="flex">
-							@foreach($termChilds as $key => $term_child)
+							@foreach($data['term_childs'] as $key => $term_child)
 							<div class="flexNameTab {!! $key==0 ? 'active' : '' !!}">
 								<a href="{{ MyAPI::getUrlTermObj($term_child) }}">{{ $term_child->term_name }}</a>
 							</div>
@@ -62,7 +62,7 @@
 					</div>
 				</div>
 				<div class="tabsContentTerm">
-					@foreach($termChilds as $key => $term_child)
+					@foreach($data['term_childs'] as $key => $term_child)
 					<div class="{!! $key==0 ? 'active' : '' !!}">
 						<ul>
 							@php $postNewChilds = $term_child->post()->orderBy('id','desc')->limit(10)->get(); @endphp

@@ -3,14 +3,13 @@
 	<title>{{ $data['post']->post_name }} - {{ $setting->web_name }}</title>
 @endsection('title')
 @section('keyword')
-	@include('seo.seo_post',['data'=>$data])
+	@include('seo.seo_post')
 @endsection('keyword')
 @section('css')
 <link rel="stylesheet" href="{{ asset('public/font/post-detail-css.css') }}">
 <link rel="stylesheet" href="{{ asset('public/css/mobile/mobile-term.css') }}">
 <link rel="stylesheet" href="{{ asset('public/css/mobile/mobile-post.css') }}">
 @endsection('css')
-@php $term = $data['post']->term; @endphp
 @section('banner')
 	<div>
 		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
@@ -117,7 +116,7 @@
 		<div class="crub">
 			<div class="flex">
 				<div class="col1 flex justify-content-center align-items-center">
-					<h5><a href="{{ url('/') }}">Trang chủ <i class="fa fa-angle-right"></i> </a> <a href="{{ MyAPI::getUrlTermObj($term) }}">{{ $term->term_name }}</a></h5>
+					<h5><a href="{{ url('/') }}">Trang chủ <i class="fa fa-angle-right"></i> </a> <a href="{{ MyAPI::getUrlTermObj($data['term']) }}">{{ $data['term']->term_name }}</a></h5>
 				</div>
 			</div>
 		</div>
@@ -142,10 +141,11 @@
 			<div class="post">
 				<h4><i class="fa fa-plus-square"></i> Bài viết liên quan</h4>
 				<ul>
-					@php $posts = $term->post()->where('id','<>',$data['post']->id)->limit(6)->get(); @endphp
-					@foreach($posts as $post)
-					<li><a href="{{ MyAPI::getUrlPostObj($post) }}">{{ $post->post_name }}</a></li>
-					@endforeach
+					@if($data['post_lienquans'])
+						@foreach($data['post_lienquans'] as $post)
+						<li><a href="{{ MyAPI::getUrlPostObj($post) }}">{{ $post->post_name }}</a></li>
+						@endforeach
+					@endif
 				</ul>
 			</div>
 		</div>
@@ -489,7 +489,7 @@
 						<h3 class="text-center"><a href="#top"><i class="bg bg3"></i></a></h3>
 					</div>
 					<div class="table-cell">
-						<h4 class="text-center"><a href="{{ MyAPI::getUrlTermObj($term) }}">Quay lại</a></h4>
+						<h4 class="text-center"><a href="{{ MyAPI::getUrlTermObj($data['term']) }}">Quay lại</a></h4>
 					</div>
 				</div>
 			</div>

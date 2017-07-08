@@ -3,7 +3,7 @@
 	<title>{{ $data['post']->post_name }} - {{ $setting->web_name }}</title>
 @endsection('title')
 @section('keyword')
-	@include('seo.seo_post',['data'=>$data])
+	@include('seo.seo_post')
 @endsection('keyword')
 @section('css')
 <link rel="stylesheet" href="{{ asset('public/font/post-detail-css.css') }}">
@@ -20,7 +20,6 @@
 	@include('layouts.bannerDesktop')
 @endsection('banner')
 @section('content')
-@php $term = $data['post']->term;@endphp
 <main class="container term post">
 	<div class="flex justify-content-between">
 		<div class="column-left">
@@ -28,12 +27,11 @@
 				<a href="{{ url('/') }}"><img src="{{ asset('public/css/desktop3/imgterm/term-1.png') }}" alt=""></a>
 				<a href="{{ url('/') }}">Trang chủ</a>
 				<span> > </span>
-				@php $term_parent = $term->parent;@endphp
-				@if($term_parent)
-				<a href="{{ MyAPI::getUrlTermObj($term_parent) }}">{{ $term_parent->term_name }}</a>
+				@if($data['term_parent'])
+				<a href="{{ MyAPI::getUrlTermObj($data['term_parent']) }}">{{ $data['term_parent']->term_name }}</a>
 				<span> > </span>
 				@endif
-				<a href="{{ MyAPI::getUrlTermObj($term) }}">{{ $term->term_name }}</a>
+				<a href="{{ MyAPI::getUrlTermObj($data['term']) }}">{{ $data['term']->term_name }}</a>
 			</div>
 			<div class="lists">
 				<h1 class="text-uppercase"><i></i> {{ $data['post']->post_name }}</h1>
@@ -74,13 +72,11 @@
 					</div>
 				</div>
 				<div class="post-nexprev text-center">
-					@php $post_pre = $term->post()->where('id','<',$data['post']->id)->orderBy('id','desc')->first(); @endphp
-					@if($post_pre)
-					<a href="{{ MyAPI::getUrlPostObj($post_pre) }}" title="{{ $post_pre->post_name }}" class="hvr-bounce-to-left">Bài trước</a>
+					@if($data['post_pre'])
+					<a href="{{ MyAPI::getUrlPostObj($data['post_pre']) }}" title="{{ $data['post_pre']->post_name }}" class="hvr-bounce-to-left">Bài trước</a>
 					@endif
-					@php $post_next = $term->post()->where('id','>',$data['post']->id)->orderBy('id','asc')->first(); @endphp
-					@if($post_next)
-					<a href="{{ MyAPI::getUrlPostObj($post_next) }}" title="{{ $post_next->post_name }}" class="hvr-bounce-to-right">Bài sau</a>
+					@if($data['post_next'])
+					<a href="{{ MyAPI::getUrlPostObj($data['post_next']) }}" title="{{ $data['post_next']->post_name }}" class="hvr-bounce-to-right">Bài sau</a>
 					@endif
 				</div>
 			</div>
