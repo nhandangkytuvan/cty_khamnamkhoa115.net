@@ -4,8 +4,8 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Post;
 use App\Setting;
-use App\Events\VisitSumEvent;
-use App\Events\VisitPostEvent;
+//use App\Events\VisitSumEvent;
+//use App\Events\VisitPostEvent;
 use BrowserDetect;
 class PostController extends Controller{
     public function show($post_alias,$post_id,Request $request){

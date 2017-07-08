@@ -4,7 +4,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Term;
 use App;
-use App\Events\VisitTermEvent;
+//use App\Events\VisitTermEvent;
 use BrowserDetect;
 class TermController extends Controller{
     public function show($term_alias,$term_id,Request $request){
@@ -20,12 +20,6 @@ class TermController extends Controller{
             switch ($term_id) {
                 case 33:
                     return view('web.desktop.thietbi',['data'=>$data]); 
-                    break;
-                case 32:
-                    return view('web.desktop.term3',['data'=>$data]); 
-                    break;
-                case 34:
-                    return view('web.desktop.term3',['data'=>$data]); 
                     break;
                 // termParent
                 case 22:
@@ -55,22 +49,16 @@ class TermController extends Controller{
                     break;
                 // endtermParent
                 default:
-                    return view('web.desktop.term3',['data'=>$data]); 
+                    $term_parent = $term->parent;
+                    $posts = $term->post()->paginate(15);
+                    return view('web.desktop.term3',['data'=>$data,'term_parent'=>$term_parent,'posts'=>$posts]); 
                     break;
             }
         }else{
             switch ($term_id) {
-                case 33:
-                    return view('web.mobile.term',['data'=>$data]);
-                    break;
-                case 32:
-                    return view('web.mobile.kythuat',['data'=>$data]);
-                    break;
-                case 34:
-                    return view('web.mobile.hoiphuc',['data'=>$data]); 
-                    break;
                 default:
-                    return view('web.mobile.term',['data'=>$data]);  
+                    $posts = $term->post()->paginate(6);
+                    return view('web.mobile.term',['data'=>$data,'posts'=>$posts]);  
                     break;
             }
         }

@@ -26,7 +26,6 @@
 				<a href="{{ url('/') }}"><img src="{{ asset('public/css/desktop3/imgterm/term-1.png') }}" alt=""></a>
 				<a href="{{ url('/') }}">Trang chủ</a>
 				<span> > </span>
-				@php $term_parent = $data['term']->parent;@endphp
 				@if($term_parent)
 				<a href="{{ MyAPI::getUrlTermObj($term_parent) }}">{{ $term_parent->term_name }}</a>
 				<span> > </span>
@@ -38,7 +37,6 @@
 					<h1>{{ $data['term']->term_name }}</h1>
 				</div>
 				<div class="posts">
-					@php $posts = $data['term']->post()->paginate(15); @endphp
 					@foreach($posts as $post)
 					<div class="post clearfix">
 						<h2 class="pull-left"><a href="{{ MyAPI::getUrlPostObj($post) }}">{{ $post->post_name }}</a></h2>
