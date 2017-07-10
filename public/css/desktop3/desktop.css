@@ -71,3 +71,7 @@ a{text-decoration: none;}
 /**/
 #myloadding {position: fixed; display: none; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.6); z-index: 100003; cursor: pointer; }
 #myloadding #mytext{position: absolute; top: 50%; left: 50%; font-size: 50px; color: white; transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); font-size: 15px; }
+/* Flashing */
+.myBanner:hover img {opacity: 1; -webkit-animation: flash 1.5s; animation: flash 1.5s; }
+@-webkit-keyframes flash {0% {opacity: .4; } 100% {opacity: 1; } }
+@keyframes flash {0% {opacity: .4; } 100% {opacity: 1; } }
