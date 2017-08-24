@@ -1,0 +1,48 @@
+.myZalo{position: fixed;top:50px;z-index: 999999999999999999999999999;top:-100%;transition: top 1s;}
+.myZalo.active{top:0px;}
+/* iPhone 5 & 5S in portrait & landscape */
+@media only screen 
+and (min-width : 320px) 
+and (max-width : 568px){
+  	.myZalo{width: 320px;left: calc(50% - 160px)}
+}
+/* iPhone 6 in portrait & landscape */
+@media only screen 
+and (min-width : 568px) 
+and (max-width : 667px) {
+  	.myZalo{width: 480px;left: calc(50% - 240px)}
+}
+/* iPhone 6 Plus in portrait & landscape */
+@media only screen 
+and (min-width : 667px) 
+and (max-width : 768px) {
+ 	.myZalo{width: 600px;left: calc(50% - 300px)}
+}
+/* iPad in portrait & landscape */
+@media only screen 
+and (min-width : 768px) {
+  .myZalo{width: 600px;left: calc(50% - 300px)}
+}
+/* iPhone 6 Plus in portrait & landscape */
+.myZalo .heading{text-align: right;padding:5px 10px;background-color: #eaeaea;border-top-left-radius: 5px;border-top-right-radius: 5px;line-height: 20px;position: relative;}
+.myZalo .heading img{width: 50px;vertical-align: middle;}
+.myZalo .heading .ping{border: 1px solid #4a90e2; width: 10px; height: 10px; opacity: 1; background-color: #4a90e2; border-radius: 100%; -webkit-animation-duration: 1.25s; animation-duration: 1.25s; -webkit-animation-name: sonar; animation-name: sonar; -webkit-animation-iteration-count: infinite; animation-iteration-count: infinite; -webkit-animation-timing-function: linear; animation-timing-function: linear; display: block; position: absolute; right:104px;top:10px; }
+
+.myZalo .body{background-color: #cdcdcd;padding:5px 10px;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;}
+.myZalo .body img{vertical-align: middle;width: 30px;height: 30px;}
+
+@keyframes sonar{
+	0%{
+		opacity:1;-webkit-transform:scale(1);transform:scale(1)
+	}
+	100%{-webkit-transform:scale(2);transform:scale(2);opacity:0;}
+}
+
+
+
+
+
+
+
+
+

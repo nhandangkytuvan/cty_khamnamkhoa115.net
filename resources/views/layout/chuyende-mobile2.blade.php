@@ -30,6 +30,7 @@
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/global/slick/slick-theme.css') }}">
 
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/mobile/mobile.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/mobile/mobile-zalo.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('public/css/chuyende/mobile/mobile-header.css') }}">
 	<link rel="stylesheet" href="{{ asset('public/css/chuyende/mobile/bootstrap.css') }}">
 	@yield('css')
@@ -113,8 +114,8 @@
 	<footer>
 		<div class="container">
 			<p>Điện thoại tư vấn đặt hẹn: <a href="tel:18006181">1800 6181</a> - <a href="tel:0439.656.999">0439.656.999</a></p>
-			<p>Thời gian mở cửa: <a href="tel:18006181">8:00 - 20:00</a></p>
-			<p>Địa chỉ phòng khám: <a href="tel:18006181">193C1 BÀ TRIỆU – HAI BÀ TRƯNG – HÀ NỘI</a></p>
+			<p>Thời gian mở cửa: <a href="tel:18006181">8:00 - 20:00</a> (cả chủ nhật, ngày lễ)</p>
+			<p>Địa chỉ: <a href="tel:18006181">193C1 BÀ TRIỆU – HAI BÀ TRƯNG – HÀ NỘI</a></p>
 		</div>
 		@yield('toolbar')	
 	</footer>
@@ -124,5 +125,6 @@
 	    <a class="my_popup_close btn-cancel">Từ chối</a>
 	    <a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="btn-agree">Đồng ý</a>
 	</div>
+	@include('popup.popupZalo')
 </body>
 </html>

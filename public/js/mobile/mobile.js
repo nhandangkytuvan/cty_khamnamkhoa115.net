@@ -30,6 +30,9 @@ $(document).ready(function() {
     $('.footer-toolbar').scrollToFixed( { bottom: 0} );
     //
     inter1 = setInterval(alertFunc, 5000);
+    //my_popup3
+    setTimeout(function(){$(".myZalo").addClass('active');}, 1000);
+    setTimeout(function(){toogleMessenger();setInterval(toogleMessenger,23000)}, 7000);
     //
     $("a[href='#top']").click(function() {
         $("html, body").animate({ scrollTop: 0 }, "slow");
@@ -73,3 +76,9 @@ $(function(){
     //     $('menu .flex1col1 >.box').css({'height':($('menu .flex1col1').height())+'px'});
     // });
 });
+function toogleMessenger(){
+    $(".myZalo").toggleClass('active');
+    if(!$(".myZalo").hasClass('active')){
+        setTimeout(toogleMessenger, 15000);
+    }
+}

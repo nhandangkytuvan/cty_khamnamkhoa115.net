@@ -1022,12 +1022,20 @@
 						</div>
 					</div>
 				</form>
+				<div id="myloadding"><div id="mytext">Xin chờ chút...</div></div>
 				<script>
-					$(document).ready(function() {
-						$('#formMailSend').ajaxForm(function() { 
-			                alert("Cảm ơn bạn đã đăng ký!"); 
-			                $('#formMailSend').resetForm();
-			            });	
+					$(document).ready(function() 
+					{
+						$('#formMailSend').ajaxForm({
+							beforeSubmit:function(){
+								$("#myloadding").show();
+							},
+							success:function(){
+			                	alert("Cảm ơn bạn đã đăng ký!");
+			                	$("#myloadding").hide(); 
+			                	$('#formMailSend').resetForm();
+							}
+						});
 					});
 				</script>
 			</div>

@@ -380,6 +380,7 @@
 					</div>
 				</div>
 			</form>
+			<div id="myloadding"><div id="mytext">Xin chờ chút...</div></div>
 			<script>
 				$(document).ready(function() 
 				{
